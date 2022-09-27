@@ -1,0 +1,68 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+303,452500.0,Kaza Rio Hostel room up to 6 people,2248279,Kaza Rio,Unknown,Estácio,-22.91488,-43.2093,Hotel room,65,1,6,12/01/2022,0.07,6,0,1,Unknown
+1345,2336651.0,The Claridge Residence Service,11933736,Luiz,Unknown,Leblon,-22.98291,-43.22652,Hotel room,1492,1,10,28/02/2020,0.1,3,365,0,Unknown
+1544,2515976.0,2- AMAZING FLAT IN RIO DE JANEIRO 201/301,10796926,Sugar Loft Apartments,Unknown,Santa Teresa,-22.9169,-43.18123,Hotel room,197,1,145,12/06/2022,1.47,15,351,20,Unknown
+2822,4557003.0,LOFT WITH TERRACE SUGAR LOAF PANORAMIC VIEW S201,10796926,Sugar Loft Apartments,Unknown,Santa Teresa,-22.91797,-43.18206,Hotel room,317,1,135,12/06/2022,1.51,15,348,38,Unknown
+3286,6026202.0,AMAZING 2 BEDROOM APARTMENT  S101,10796926,Sugar Loft Apartments,Unknown,Santa Teresa,-22.91766,-43.18307,Hotel room,350,1,82,31/05/2022,0.98,15,347,15,Unknown
+3548,8465751.0,Kaza Rio hostel - private room,2248279,Kaza Rio,Unknown,Estácio,-22.91654,-43.2068,Hotel room,229,1,4,10/01/2022,0.22,6,0,2,Unknown
+3574,8501192.0,TIFFANY'S IPANEMA RESIDENCE SERVICE  APARTHOTEL,44466230,Vania,Unknown,Ipanema,-22.98454,-43.2001,Hotel room,597,2,194,08/03/2022,2.36,1,0,17,Unknown
+3855,9260344.0,5 bed Kaza Rio hostel,2248279,Kaza Rio,Unknown,Estácio,-22.91683,-43.20937,Hotel room,71,1,9,09/01/2022,0.18,6,0,2,Unknown
+3908,9323641.0,Kaza Rio hostel Quarto para até 4 pessoas,2248279,Kaza Rio,Unknown,Estácio,-22.91474,-43.2086,Hotel room,71,4,0,No_reviews,0.0,6,0,0,Unknown
+4523,10626211.0,Top Leblon Residence - Perfect location,15909977,Thiago,Unknown,Leblon,-22.98418,-43.222343,Hotel room,479,3,117,29/05/2022,1.54,1,264,31,Unknown
+4809,11607165.0,El Misti Hostel Ipanema - 6-Bed Mixed Dorm Ensuite,61433326,Account Manager,Unknown,Ipanema,-22.98619,-43.20625,Hotel room,101,1,18,25/04/2022,0.3,4,365,9,Unknown
+5127,12306706.0,Double room private with balcony,32168832,Marcus,Unknown,Botafogo,-22.9562,-43.19126,Hotel room,159,1,113,16/06/2022,1.56,9,77,26,Unknown
+5130,12306768.0,Double room with big closet and safe,32168832,Marcus,Unknown,Botafogo,-22.9564,-43.19313,Hotel room,183,1,46,12/06/2022,0.63,9,84,7,Unknown
+5131,12307393.0,Stained Glass private room,32168832,Marcus,Unknown,Botafogo,-22.9559,-43.19293,Hotel room,179,1,94,12/06/2022,1.29,9,17,11,Unknown
+5132,12307400.0,Double bed Ensuite,32168832,Marcus,Unknown,Botafogo,-22.95428,-43.19294,Hotel room,159,1,74,18/06/2022,1.04,9,82,8,Unknown
+5518,12940741.0,Santa Teresa Accommodation,71086179,Residencial,Unknown,Santa Teresa,-22.91628,-43.18064,Hotel room,90,1,76,13/03/2022,1.06,4,81,21,Unknown
+6065,13427108.0,Quartos na Fazenda Alegria,42685021,Roberto,Unknown,Vargem Pequena,-22.97666,-43.45912,Hotel room,65,1,7,21/11/2021,0.12,4,361,2,Unknown
+7854,16113518.0,Suite Luxo Hotel - Barra da Tijuca - RJ,104815520,Rafael,Unknown,Barra da Tijuca,-23.00573,-43.34159,Hotel room,257,3,8,02/01/2019,0.12,3,0,0,Unknown
+7984,15560290.0,Luxury Suite  with unbelievable view  in  RIO !,50270482,Laurent,Unknown,Santa Teresa,-22.91701,-43.18306,Hotel room,9999,1,28,20/09/2020,0.43,10,0,0,Unknown
+7985,15574179.0,Big Suite (50m2) in Casa Amarelo Hotel,50270482,Laurent,Unknown,Santa Teresa,-22.91551,-43.18255,Hotel room,6988,3,27,11/11/2020,0.47,10,0,0,Unknown
+8780,18807091.0,Junior Suite 20m2  with Terrace in  Casa Amarelo,50270482,Laurent,Unknown,Santa Teresa,-22.91662,-43.18259,Hotel room,579,3,17,26/02/2021,0.29,10,0,0,Unknown
+9529,22489545.0,Apt Rio de Janeiro Ipanema at Tiffany's Residence,106376241,Cleide,Unknown,Ipanema,-22.98653,-43.19917,Hotel room,686,3,43,13/05/2022,0.79,1,173,5,Unknown
+9849,22883940.0,Kitinet 101 para casal com  filhos ou 3 amigos,109885396,Sebastião,Unknown,Praça da Bandeira,-22.91324,-43.2126,Hotel room,206,3,3,02/03/2021,0.1,6,180,0,Unknown
+10196,24933756.0,Rio Spot Princesa C038,13580277,Marcio,Unknown,Copacabana,-22.96407,-43.17472,Hotel room,436,3,4,14/03/2022,0.18,53,143,3,Unknown
+10316,26384256.0,Flat 705-A1 - Verano Stay,158742579,Eberson,Unknown,Jacarepaguá,-22.96805,-43.38766,Hotel room,214,3,0,No_reviews,0.0,2,0,0,Unknown
+10331,26255209.0,Suite 105 Verano Stay Barra,158742579,Eberson,Unknown,Jacarepaguá,-22.97003,-43.3867,Hotel room,149,3,0,No_reviews,0.0,2,0,0,Unknown
+10477,27546722.0,Experience the other side of Rio at Kaza RioHostel,2248279,Kaza Rio,Unknown,Estácio,-22.91614,-43.20852,Hotel room,176,1,9,09/01/2022,0.23,6,0,1,Unknown
+10510,28455469.0,Suíte Prainha,198988629,Lhomme,Unknown,Copacabana,-22.98173,-43.19644,Hotel room,365,1,20,03/03/2022,0.44,4,85,2,Unknown
+10511,28455661.0,Suíte Urca,198988629,Lhomme,Unknown,Copacabana,-22.98335,-43.19518,Hotel room,365,1,4,01/03/2022,0.09,4,86,2,Unknown
+10529,28460608.0,Suíte Flamengo,198988629,Lhomme,Unknown,Copacabana,-22.98199,-43.19662,Hotel room,365,1,13,06/03/2022,0.43,4,83,4,Unknown
+10546,27750790.0,Flat Barra da Tijuca  Vista panorâmica para o Mar,132388145,Ivana,Unknown,Barra da Tijuca,-23.00868,-43.35548,Hotel room,498,2,25,06/01/2022,0.53,6,232,1,Unknown
+10749,28915193.0,Hotel no Centro - Café da manhã incluído,19060767,Ronnie,Unknown,Gamboa,-22.89888,-43.18959,Hotel room,334,1,42,28/05/2019,0.94,2,72,0,Unknown
+10835,29094612.0,Suíte Botafogo,198988629,Lhomme,Unknown,Copacabana,-22.98325,-43.19492,Hotel room,365,1,9,23/04/2022,0.2,4,88,3,Unknown
+10887,29907291.0,Top apart Leblon,224883179,Paulo,Unknown,Leblon,-22.98433,-43.22156,Hotel room,440,3,33,24/04/2022,0.78,1,162,10,Unknown
+11005,30009560.0,Luxurious Tijuca Suite at Casa Amarelo,50270482,Laurent,Unknown,Santa Teresa,-22.91706,-43.18446,Hotel room,9999,1,20,27/03/2021,0.48,10,0,0,Unknown
+11010,30013012.0,"Luxury Suite ""Parfum"" (25m2)  at Casa Amarelo",50270482,Laurent,Unknown,Santa Teresa,-22.9152,-43.18404,Hotel room,9999,1,9,25/11/2020,0.22,10,0,0,Unknown
+11011,30013470.0,"Suite ""Fleurs des Anges""  ( 50m2)  in Casa Amarelo",50270482,Laurent,Unknown,Santa Teresa,-22.91539,-43.1843,Hotel room,9713,3,3,07/02/2020,0.09,10,0,0,Unknown
+11034,30392185.0,Do Samba - Your room in the heart of Rio,227606264,Do Samba,Unknown,Botafogo,-22.94713,-43.18522,Hotel room,160,1,19,13/06/2021,0.46,3,51,0,Unknown
+11035,30392586.0,Do Samba - Your family room in the heart of Rio,227606264,Do Samba,Unknown,Botafogo,-22.947,-43.18508,Hotel room,220,1,2,17/02/2021,0.07,3,51,0,Unknown
+11281,30753217.0,Suíte do hotel Rio Stay - ao lado do Rio Centro,200621357,Marcela,Unknown,Taquara,-22.94293,-43.37137,Hotel room,160,3,25,27/04/2022,0.59,2,170,5,Unknown
+12301,33907909.0,Mediterrâneo Barra Flat - Biarritz,2513825,Newton,Unknown,Barra da Tijuca,-23.00545,-43.34148,Hotel room,329,3,117,03/06/2022,3.03,25,91,34,Unknown
+12339,34084628.0,Ecoposada Estrelas da Babilionia #5,37370842,Bibiana,Unknown,Leme,-22.95978,-43.16853,Hotel room,145,2,7,28/02/2022,0.19,5,102,3,Unknown
+12405,34532591.0,QUARTO 2,260600278,Varandas Do Maracanã,Unknown,Maracanã,-22.91262,-43.23094,Hotel room,340,1,4,24/02/2020,0.11,6,178,0,Unknown
+12435,34569396.0,QUARTO 1,260600278,Varandas Do Maracanã,Unknown,Maracanã,-22.91362,-43.23129,Hotel room,85,1,5,25/05/2022,0.13,6,362,2,Unknown
+12475,34668638.0,QUARTO 6,260600278,Varandas Do Maracanã,Unknown,Maracanã,-22.91323,-43.23233,Hotel room,85,1,0,No_reviews,0.0,6,267,0,Unknown
+12537,35602210.0,Arosa Rio Hotel - Breakfast Included-Lapa-Downtown,261848845,Arosa,Unknown,Santa Teresa,-22.91362,-43.19145,Hotel room,206,1,13,01/11/2021,0.39,4,341,6,Unknown
+12538,35602213.0,Arosa Rio Hotel-Breakfast included-Lapa-Centro,261848845,Arosa,Unknown,Centro,-22.912781,-43.191109,Hotel room,294,1,5,12/01/2022,0.47,4,344,5,Unknown
+12539,35602220.0,Arosa Rio Hotel-Breakfast Included-Downtown,261848845,Arosa,Unknown,Centro,-22.91195,-43.19048,Hotel room,370,1,0,No_reviews,0.0,4,344,0,Unknown
+12540,35602225.0,Arosa Rio Hotel-Breakfast included-Lapa-Centro,261848845,Arosa,Unknown,Centro,-22.912781,-43.191109,Hotel room,481,1,4,12/10/2021,0.35,4,344,4,Unknown
+12896,37087527.0,Suite Casal Flat RioStay Riocentro_Stay'nRio 2,22240461,Tatiana,Unknown,Jacarepaguá,-22.97388,-43.41367,Hotel room,200,2,32,05/06/2022,0.94,13,210,8,Unknown
+12994,37905741.0,Venit Barra Hotel - Venit Standard King,285302898,Venit,Unknown,Barra da Tijuca,-22.97387,-43.39054,Hotel room,613,1,0,No_reviews,0.0,3,342,0,Unknown
+12995,37905870.0,Venit Barra Hotel - Venit Standard Twin,285302898,Venit,Unknown,Barra da Tijuca,-22.97324,-43.39169,Hotel room,613,1,0,No_reviews,0.0,3,307,0,Unknown
+13077,37741422.0,Venit Barra Hotel - Quarto Superior King,285302898,Venit,Unknown,Jacarepaguá,-22.97289,-43.39197,Hotel room,684,1,1,09/04/2022,0.41,3,351,1,Unknown
+13253,38850451.0,"Selina Lapa, Rio de Janeiro - Standard Room",297450975,Selina,Unknown,Centro,-22.91375,-43.17973,Hotel room,402,1,218,09/05/2022,7.32,8,250,125,Unknown
+13262,38865363.0,"Selina Lapa, Rio de Janeiro - Deluxe Room",297450975,Selina,Unknown,Centro,-22.91508,-43.17807,Hotel room,563,1,29,07/01/2022,1.67,8,249,16,Unknown
+13263,38866404.0,"Selina Lapa, Rio de Janeiro - Unique Room",297450975,Selina,Unknown,Centro,-22.91332,-43.1794,Hotel room,643,1,4,13/10/2021,0.29,8,242,3,Unknown
+13264,38867334.0,Selina Lapa Rio de Janeiro - Rockstar Room,297450975,Selina,Unknown,Centro,-22.91546,-43.17804,Hotel room,804,1,25,21/04/2022,1.56,8,226,22,Unknown
+13286,38315134.0,Kaza Rio Hostel - Quarto Twin,2248279,Kaza Rio,Unknown,Estácio,-22.91635,-43.20712,Hotel room,176,1,0,No_reviews,0.0,6,0,0,Unknown
+13287,38320085.0,Lindo Flat frente Mar  Barra da Tijuca,132388145,Ivana,Unknown,Barra da Tijuca,-23.00915,-43.35334,Hotel room,386,2,19,22/05/2022,0.57,6,214,10,Unknown
+15468,43036115.0,Rio Design Hotel,311180109,Rio Design,Unknown,Copacabana,-22.98298,-43.19063,Hotel room,0,1,0,No_reviews,0.0,1,0,0,Unknown
+15469,43036122.0,Belga Hotel e Restaurante Ltda,286416585,Ra-Iz,Unknown,Centro,-22.90133,-43.1828,Hotel room,0,1,0,No_reviews,0.0,1,0,0,Unknown
+15533,43148322.0,Américas Barra Hotel & Eventos,315032561,Américas Barra,Unknown,Barra da Tijuca,-23.00065,-43.41907,Hotel room,0,1,0,No_reviews,0.0,1,0,0,Unknown
+15534,43148433.0,Américas Copacabana Hotel,318396893,Américas,Unknown,Copacabana,-22.97081,-43.18915,Hotel room,0,2,0,No_reviews,0.0,1,0,0,Unknown
+15553,43247506.0,Americas Granada Hotel,310461308,Américas Granada,Unknown,Centro,-22.91155,-43.1838,Hotel room,0,1,0,No_reviews,0.0,1,0,0,Unknown
+15589,43309227.0,Augusto's Riocopa Hotel,312899567,Augusto'S,Unknown,Copacabana,-22.96159,-43.17491,Hotel room,0,1,0,No_reviews,0.0,1,0,0,Unknown
+16174,45636785.0,Selina Copacabana,369708259,Selina,Unknown,Copacabana,-22.9801,-43.19002,Hotel room,0,1,211,27/05/2022,11.36,2,0,120,Unknown
+16390,45736870.0,Standard Room,369708259,Selina,Unknown,Copacabana,-22.97905,-43.19103,Hotel room,472,1,0,No_reviews,0.0,2,257,0,Unknown

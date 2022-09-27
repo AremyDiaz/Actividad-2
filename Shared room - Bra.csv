@@ -1,0 +1,460 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+56,23877869.0,Casa na Baixada tranquilidade e segurança,179055511,Rodrigo Manilha,Unknown,Pavuna,-22.78588,-43.36536,Shared room,41,2,1,22/02/2020,0.04,1,364,0,Unknown
+61,19165176.0,Nosso lar,134027470,Leticia,Unknown,Pavuna,-22.8034,-43.38749,Shared room,258,2,0,No_reviews,0.0,1,90,0,Unknown
+183,324827.0,duino`s house in Rio de Janeiro,1622624,Edwin,Unknown,Vargem Grande,-23.00075,-43.50841,Shared room,412,1,0,No_reviews,0.0,1,365,0,Unknown
+610,912633.0,Come Excellent house near the Sambo,4897168,Taryhk,Unknown,Rio Comprido,-22.92466,-43.20748,Shared room,439,1,1,15/02/2013,0.01,1,365,0,Unknown
+913,1802374.0,Apê no Campo com Vista do amanhecer,9449475,Maria,Unknown,Centro,-22.90982,-43.18831,Shared room,187,1,5,02/01/2022,0.12,9,90,1,Unknown
+1116,1943837.0,cama na sala com privacidade  & aconchego,10054467,Zelair,Unknown,Copacabana,-22.98054,-43.19094,Shared room,52,1,153,28/05/2022,1.81,1,39,22,Unknown
+1179,2228471.0,Room at Ipanema Beach,1812201,Eliane,Unknown,Ipanema,-22.9854,-43.19874,Shared room,500,1,0,No_reviews,0.0,3,365,0,Unknown
+1240,2180474.0,Casa da Silvina,11120097,Silvina,Unknown,São Francisco Xavier,-22.89876,-43.2418,Shared room,215,1,4,06/09/2015,0.04,1,365,0,Unknown
+1360,2342928.0,APARTAMENTO LAPA - RIO DE JANEIRO,11965048,Flávia,Unknown,Centro,-22.91236,-43.18198,Shared room,300,1,12,07/01/2020,0.12,1,364,0,Unknown
+1444,2370137.0,Apto Bairro centro do RJ,10811037,Marcelo,Unknown,Centro,-22.89889,-43.18046,Shared room,286,1,0,No_reviews,0.0,1,365,0,Unknown
+1472,2426124.0,quarto para 2 pessoas para carnaval,12400187,Adriana,Unknown,Barra da Tijuca,-23.00952,-43.29822,Shared room,700,4,0,No_reviews,0.0,1,365,0,Unknown
+1481,2377289.0,Copacabana beach room,12144834,Felipe Levi,Unknown,Copacabana,-22.96091,-43.1756,Shared room,929,1,0,No_reviews,0.0,1,365,0,Unknown
+1510,2386626.0,Cup Brazil 2014 - Rio de Janeiro,12191217,João,Unknown,Santa Cruz,-22.92145,-43.6827,Shared room,773,1,0,No_reviews,0.0,1,365,0,Unknown
+1519,2440405.0,リオ日本人宿(シェアアパート)Zico,12474889,Shingo,Unknown,Centro,-22.90814,-43.18999,Shared room,45,10,4,24/02/2015,0.04,1,87,0,Unknown
+1522,2392479.0,Available for female guests,12221400,Nany,Unknown,Marechal Hermes,-22.85467,-43.36386,Shared room,170,1,0,No_reviews,0.0,1,365,0,Unknown
+1554,2451883.0,A must see! The World Cup is HERE!,12536628,Evandro,Unknown,Higienópolis,-22.87415,-43.26147,Shared room,380,3,0,No_reviews,0.0,3,365,0,Unknown
+1606,2525622.0,Anticipate your next holiday!,9465134,Aline,Unknown,Botafogo,-22.95173,-43.17653,Shared room,1000,5,4,17/08/2016,0.04,2,365,0,Unknown
+1768,2692420.0,"3 Rooms, besides Maracana Stadium",13779303,Sandra Julia,Unknown,Maracanã,-22.91489,-43.23105,Shared room,220,1,1,16/07/2014,0.01,1,365,0,Unknown
+1781,2632907.0,"Studio in Maracanã, house 6 people",13461238,Antonio,Unknown,Maracanã,-22.91466,-43.23245,Shared room,650,5,0,No_reviews,0.0,2,365,0,Unknown
+1974,2781668.0,QUARTO CONJUGADO PARA A OLIMPÍADA,12536628,Evandro,Unknown,Higienópolis,-22.8746,-43.26194,Shared room,440,3,0,No_reviews,0.0,3,365,0,Unknown
+2059,2856527.0,Cozy and economic stay in Rio,14603505,Viviane,Unknown,Santa Teresa,-22.91859,-43.18833,Shared room,300,6,0,No_reviews,0.0,1,365,0,Unknown
+2122,2994379.0,Quarto inteiro em casa na Floresta,15265502,Pâmela,Unknown,Alto da Boa Vista,-22.9653,-43.2767,Shared room,150,2,0,No_reviews,0.0,1,365,0,Unknown
+2144,2950995.0,Quarto Comp. Catete Z.Sul Otima Loc,15064727,Joana Batista,Unknown,Catete,-22.92474,-43.17768,Shared room,114,8,0,No_reviews,0.0,1,365,0,Unknown
+2183,2884846.0,CARNAVAL/2022 na República da Urca RJ,14743853,Carlos,Unknown,Botafogo,-22.95561,-43.17294,Shared room,75,5,14,27/02/2020,0.15,6,352,0,Unknown
+2200,3011905.0,Perto Maracanã,13452649,Hebert,Unknown,Engenho Novo,-22.91467,-43.26382,Shared room,65,7,0,No_reviews,0.0,2,365,0,Unknown
+2305,3171416.0,"Guest House en Copacabana, RJ.",16084310,Pablo,Unknown,Copacabana,-22.96428,-43.18262,Shared room,310,1,0,No_reviews,0.0,1,365,0,Unknown
+2323,3181127.0,Casa da Santa Room da Costa,4168313,Matthieu,Unknown,Santa Teresa,-22.915,-43.1916,Shared room,353,2,1,07/01/2022,0.18,5,365,1,Unknown
+2380,3061183.0,Rooms for the world cup 2014 - RJ,15581556,Rita,Unknown,Tijuca,-22.91584,-43.22116,Shared room,1033,5,0,No_reviews,0.0,2,0,0,Unknown
+2418,3316664.0,Hostel Guaratiba 1500m² de muito verde e segurança,15489992,Rodrigo,Unknown,Guaratiba,-22.97404,-43.58949,Shared room,110,5,0,No_reviews,0.0,3,358,0,Unknown
+2543,3287793.0,Copacabana,16613801,Ale,Unknown,Copacabana,-22.96946,-43.18925,Shared room,98,2,4,24/04/2022,0.05,6,362,2,Unknown
+2582,3479268.0,"Rent spot in Lapa, RJ",17525151,Rita,Unknown,Centro,-22.91744,-43.17754,Shared room,250,1,0,No_reviews,0.0,1,365,0,Unknown
+2656,3571526.0,The living room: A family friendly environment,5743747,Kelly E,Unknown,Santa Teresa,-22.9163,-43.18733,Shared room,80,2,10,25/04/2022,0.11,4,365,4,Unknown
+2657,3574920.0,A great and charming place in Rio.,716415,Daniel,Unknown,Santa Teresa,-22.91804,-43.17959,Shared room,170,2,0,No_reviews,0.0,2,363,0,Unknown
+2728,4407521.0,Helping you to write your best story in Rio,14657456,Felipe,Unknown,Santa Teresa,-22.91509,-43.18252,Shared room,135,1,1,07/03/2021,0.06,2,0,0,Unknown
+2891,4631856.0,CARNAVAL 2022 no Rio de Janeiro-,14743853,Carlos,Unknown,Urca,-22.95336,-43.1732,Shared room,75,5,7,03/01/2020,0.09,6,344,0,Unknown
+2928,5195599.0,Carnaval 2022 -RJ/Urca -ULTIMAS VAGAS!!!,14743853,Carlos,Unknown,Botafogo,-22.95553,-43.17272,Shared room,150,3,4,24/02/2021,0.06,6,365,0,Unknown
+2942,4858341.0,Mar da Babilônia Hostel,24415930,Cristina,Unknown,Leme,-22.95925,-43.16994,Shared room,55,1,3,22/11/2017,0.04,5,358,0,Unknown
+2943,4858441.0,Mar da Babilonia Hostel,24415930,Cristina,Unknown,Leme,-22.9608,-43.17165,Shared room,55,1,2,10/02/2020,0.02,5,365,0,Unknown
+2958,5212620.0,Mar da Babilônia Hostel,24415930,Cristina,Unknown,Leme,-22.96016,-43.17028,Shared room,55,1,0,No_reviews,0.0,5,365,0,Unknown
+2959,5212678.0,Sea of Babylon Hostel,24415930,Cristina,Unknown,Leme,-22.96082,-43.17035,Shared room,55,1,2,02/01/2019,0.03,5,365,0,Unknown
+3130,5746600.0,Dois Irmãos Casa Hostel,29807424,Sueleni,Unknown,Vidigal,-22.99244,-43.23428,Shared room,55,2,3,31/12/2016,0.04,1,365,0,Unknown
+3134,5430206.0,Collective room individual price,1796794,Yara,Unknown,São Cristóvão,-22.90246,-43.22566,Shared room,207,1,8,26/09/2019,0.09,5,365,0,Unknown
+3177,5180969.0,Quarto Flamengo ( 4 pessoas ),1673501,Josy,Unknown,Santa Teresa,-22.92251,-43.18156,Shared room,600,1,1,06/10/2019,0.03,4,365,0,Unknown
+3305,6475187.0,"olá, eu sou judite!",33827990,Judite,Unknown,Humaitá,-22.95611,-43.20055,Shared room,309,4,0,No_reviews,0.0,1,364,0,Unknown
+3379,6622112.0,Pousada dos pássaros Rio Sobrado,17175278,Elcio,Unknown,Brás de Pina,-22.82514,-43.28482,Shared room,106,1,2,02/01/2019,0.02,6,90,0,Unknown
+3514,7746353.0,Hospedagem c/ café da manhã!!!,26595931,Cesar,Unknown,Recreio dos Bandeirantes,-23.03519,-43.49321,Shared room,101,1,0,No_reviews,0.0,1,0,0,Unknown
+3527,8438021.0,The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99668,-43.23932,Shared room,56,1,13,02/05/2022,0.17,10,364,2,Unknown
+3619,8541063.0,Single room in Lapa,44964787,José,Unknown,Centro,-22.91592,-43.1776,Shared room,120,10,0,No_reviews,0.0,1,364,0,Unknown
+3931,9651430.0,Ótima oportunidade no RJ para as olimpíadas!,49894931,Elizabeth,Unknown,Grajaú,-22.92036,-43.26042,Shared room,35,7,0,No_reviews,0.0,1,365,0,Unknown
+3972,9412425.0,*Single Bed in Mixed Dormitory Room up to 5 beds*,26748682,Rose Kaneko,Unknown,Curicica,-22.94821,-43.38566,Shared room,120,1,16,16/04/2022,0.22,16,177,6,Unknown
+4195,10123138.0,Single Bed in 5 Bunk Bed Dorm Room-Riocentro,26748682,Rose Kaneko,Unknown,Curicica,-22.94864,-43.38305,Shared room,120,1,0,No_reviews,0.0,16,354,0,Unknown
+4344,10044026.0,Cama em Dormitório Misto,26748682,Rose Kaneko,Unknown,Curicica,-22.95083,-43.38277,Shared room,120,1,10,08/04/2022,0.13,16,351,2,Unknown
+4411,10524885.0,Shared Room for the Rio Carnival!,50721893,Anderson,Unknown,Parque Anchieta,-22.82802,-43.40133,Shared room,55,1,2,21/08/2016,0.03,1,365,0,Unknown
+4440,10549548.0,Cama em Dormitório Misto 5 Beliche - Rock-in-Rio,26748682,Rose Kaneko,Unknown,Curicica,-22.94895,-43.38318,Shared room,120,1,11,04/02/2020,0.15,16,177,0,Unknown
+4635,10832579.0,Penthouse-Barra da Tijuca-1 bedroom-2 beds,56094640,José,Unknown,Barra da Tijuca,-23.01058,-43.31478,Shared room,361,2,1,17/08/2016,0.01,2,365,0,Unknown
+4656,10846603.0,Olimpíadas: Alugo camas em quarto.,56175496,Anuncio Cancelado!,Unknown,Maracanã,-22.91802,-43.23288,Shared room,600,5,0,No_reviews,0.0,1,363,0,Unknown
+4675,11054380.0,A Toca de Santa #2,57358522,Pedro,Unknown,Santa Teresa,-22.92451,-43.19044,Shared room,90,2,3,06/10/2019,0.04,5,365,0,Unknown
+4690,11079283.0,A Toca de Santa #1,57358522,Pedro,Unknown,Santa Teresa,-22.92329,-43.19033,Shared room,90,2,8,29/02/2020,0.1,5,365,0,Unknown
+4694,11085173.0,Casa Camorim Rock in Rio perto do park olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96454,-43.40303,Shared room,120,1,9,07/10/2019,0.13,11,359,0,Unknown
+4698,11085641.0,Casarão Camorim Rock in Rio perto parque olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96389,-43.40306,Shared room,120,2,2,09/10/2019,0.03,11,358,0,Unknown
+4706,11096932.0,A Toca de Santa #3,57358522,Pedro,Unknown,Santa Teresa,-22.92473,-43.19264,Shared room,90,2,4,02/01/2022,0.05,5,365,1,Unknown
+4715,11020084.0,Shared Room in Rio,55248222,Filipi E Jessica,Unknown,Santa Teresa,-22.91952,-43.18097,Shared room,50,2,28,25/04/2022,0.36,5,360,10,Unknown
+4739,11031580.0,Barra da Tijuca - The most beautiful beach in Rio,57247517,Sergio,Unknown,Barra da Tijuca,-23.01019,-43.31939,Shared room,490,1,7,06/03/2019,0.09,1,359,0,Unknown
+4760,11051931.0,A Toca de Santa,57358522,Pedro,Unknown,Santa Teresa,-22.92452,-43.19236,Shared room,90,2,8,02/01/2022,0.1,5,365,1,Unknown
+4762,11540819.0,Quarto p/ Rock in Rio camorim perto park olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96538,-43.40643,Shared room,120,4,2,06/10/2019,0.03,11,355,0,Unknown
+4815,11232006.0,Shared Room in Rio,55248222,Filipi E Jessica,Unknown,Santa Teresa,-22.91857,-43.18098,Shared room,50,2,18,25/04/2022,0.24,5,337,6,Unknown
+4850,11266507.0,Apartamento Conjugado em Copacabana,58739989,Suetlana,Unknown,Copacabana,-22.9671,-43.18598,Shared room,10000,1,0,No_reviews,0.0,1,365,0,Unknown
+4968,11452417.0,Hospedagem perto do Parque Olimpico,16067009,Mirella,Unknown,Recreio dos Bandeirantes,-23.0207,-43.45358,Shared room,4000,1,0,No_reviews,0.0,1,365,0,Unknown
+5068,11539079.0,Camorim quarto Rock in Rio perto do Park Olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96606,-43.40512,Shared room,120,4,2,07/10/2019,0.03,11,361,0,Unknown
+5069,11539344.0,Quarto camorim Rock in Rio perto park olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.9641,-43.40589,Shared room,120,4,2,06/10/2019,0.03,11,359,0,Unknown
+5070,11540213.0,Casa camorim Rock in Rio perto do parque olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96616,-43.40643,Shared room,120,4,2,06/10/2019,0.03,11,360,0,Unknown
+5071,11540547.0,Quarto no camorim Rock in Rio perto park olimpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96451,-43.40664,Shared room,120,1,2,07/10/2019,0.03,11,357,0,Unknown
+5147,12318875.0,ROCK IN RIO 22,16613801,Ale,Unknown,Copacabana,-22.96903,-43.18878,Shared room,98,2,4,16/01/2022,0.06,6,359,3,Unknown
+5262,12055898.0,"Quarto compartilhado, Rochar",64571662,Gabriel,Unknown,Jacaré,-22.89419,-43.25261,Shared room,150,1,1,29/05/2016,0.01,1,179,0,Unknown
+5301,12408180.0,Patricia Rangel,67101774,Patricia,Unknown,Pechincha,-22.93613,-43.36259,Shared room,7500,1,0,No_reviews,0.0,1,89,0,Unknown
+5438,12525002.0,☮︎ Comfortable Hostel ⚔︎ Safe & Central Location ✌,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.95365,-43.1876,Shared room,56,1,48,16/06/2022,0.67,12,179,30,Unknown
+5500,12932572.0,Vagas para mulheres e temporadas,71008004,Paula,Unknown,Rocha,-22.90168,-43.2459,Shared room,413,1,0,No_reviews,0.0,1,365,0,Unknown
+5671,13129803.0,...,28691331,Fortunato,Unknown,Jacarepaguá,-22.96596,-43.38699,Shared room,2323,5,0,No_reviews,0.0,1,358,0,Unknown
+6040,13587162.0,Tour e Passeios fotograficos pelo Rio,16613801,Ale,Unknown,Copacabana,-22.96672,-43.18961,Shared room,90,2,0,No_reviews,0.0,6,358,0,Unknown
+6162,13717872.0,CARNAVAL2022 - URCA-RJ,14743853,Carlos,Unknown,Botafogo,-22.95534,-43.17274,Shared room,75,5,2,02/01/2020,0.03,6,358,0,Unknown
+6167,13639621.0,Passeios Fotograficos Rio,16613801,Ale,Unknown,Copacabana,-22.96669,-43.18773,Shared room,88,2,3,26/09/2017,0.04,6,358,0,Unknown
+6172,13620843.0,Just 5 minutes from the Maracana Stadium,78883880,Carlos Eduardo,Unknown,Vila Isabel,-22.91711,-43.24885,Shared room,181,5,0,No_reviews,0.0,1,358,0,Unknown
+6301,13844573.0,"""Sala aconchegante Copacabana Posto 5""",2306711,Denize,Unknown,Copacabana,-22.97993,-43.19039,Shared room,80,5,16,24/04/2022,0.3,1,341,3,Unknown
+6411,13809665.0,I share my apartment during Rio2016,81270065,Ronaldo,Unknown,Laranjeiras,-22.93188,-43.18266,Shared room,272,1,3,24/08/2016,0.04,1,363,0,Unknown
+6426,13814774.0,Apartamento a um pulo do Parque Olímpico!,70087137,Iasmin,Unknown,Jacarepaguá,-22.96627,-43.39574,Shared room,500,15,0,No_reviews,0.0,1,365,0,Unknown
+6431,13697756.0,01 cama em quarto triplo BOTAFOGO,79873285,Conceição,Unknown,Botafogo,-22.9452,-43.18486,Shared room,981,1,7,13/02/2018,0.1,1,180,0,Unknown
+6452,13879281.0,Quarto para Olimpíada em Duplex,66503486,Gian,Unknown,Recreio dos Bandeirantes,-23.00552,-43.45827,Shared room,1033,1,0,No_reviews,0.0,1,365,0,Unknown
+6455,13893452.0,Room for 2 people!,82298908,(Email hidden by Airbnb),Unknown,Pechincha,-22.9276,-43.35273,Shared room,258,10,0,No_reviews,0.0,1,89,0,Unknown
+6460,13879989.0,Temporary rentals for Brazilian Cup.,82046629,Elizabeth,Unknown,São Cristóvão,-22.89993,-43.23033,Shared room,591723,6,0,No_reviews,0.0,1,365,0,Unknown
+6637,13970188.0,Cozy,83289548,Santiago,Unknown,Rio Comprido,-22.92713,-43.20608,Shared room,350,1,0,No_reviews,0.0,1,365,0,Unknown
+6752,14028129.0,Hospedagem para o Evento das Olimpíadas Rio 2016,83972459,Benedito Lucio,Unknown,Copacabana,-22.96488,-43.17608,Shared room,826,2,0,No_reviews,0.0,1,365,0,Unknown
+6777,14030532.0,CARNAVALl 2022- RJ -Hospedagem na Urca,14743853,Carlos,Unknown,Botafogo,-22.95316,-43.1736,Shared room,100,5,2,02/01/2022,0.07,6,352,1,Unknown
+6778,14030548.0,Carnaval 2022!  RESTAM POUCAS VAGAS!!!- Urca/RJ,14743853,Carlos,Unknown,Botafogo,-22.95256,-43.17416,Shared room,150,4,3,29/12/2021,0.07,6,365,1,Unknown
+6796,14091569.0,Jogos Olímpicos | Quarto Compartilhado,64838230,Ethieny,Unknown,Freguesia (Jacarepaguá),-22.93795,-43.34028,Shared room,300,4,0,No_reviews,0.0,1,363,0,Unknown
+6807,14092796.0,Excelentes quartos na Barra!,84785000,Mariana,Unknown,Barra da Tijuca,-22.99747,-43.38463,Shared room,5163,1,0,No_reviews,0.0,1,365,0,Unknown
+6903,14137830.0,OLYMPICS WITH COMFORT! DOUBLE IN SHARED BEDROOM!,4818504,Christiane,Unknown,Maracanã,-22.91445,-43.23269,Shared room,100,2,0,No_reviews,0.0,5,177,0,Unknown
+6904,14138086.0,OLYMPICS WITH COMFORT! SINGLE IN SHARED BEDROOM!,4818504,Christiane,Unknown,Maracanã,-22.91324,-43.23134,Shared room,80,2,0,No_reviews,0.0,5,177,0,Unknown
+6993,14153501.0,Camorim Quarto Rock in Rio perto Park Olímpico,50893268,Adriana,Unknown,Jacarepaguá,-22.96293,-43.40104,Shared room,120,2,6,02/01/2022,0.08,11,357,1,Unknown
+7048,14161533.0,Pousada dos pássaros QUARTO 3.,17175278,Elcio,Unknown,Brás de Pina,-22.82633,-43.2838,Shared room,60,1,6,22/04/2022,0.14,6,90,2,Unknown
+7059,14162912.0,Alugo Vagas Compartilhadas,85663146,Bia,Unknown,Tijuca,-22.91841,-43.22029,Shared room,50,1,0,No_reviews,0.0,1,89,0,Unknown
+7060,14162953.0,Pousada dos pássaros QUARTO 1,17175278,Elcio,Unknown,Brás de Pina,-22.82718,-43.28319,Shared room,70,1,4,01/01/2022,0.09,6,90,1,Unknown
+7061,14163141.0,Pousada dos pássaros QUARTO 2,17175278,Elcio,Unknown,Brás de Pina,-22.82633,-43.283798,Shared room,80,1,4,02/01/2022,0.08,6,90,1,Unknown
+7094,14222900.0,Tour pelo Rio,16613801,Ale,Unknown,Copacabana,-22.96786,-43.18907,Shared room,93,2,2,20/12/2020,0.07,6,358,0,Unknown
+7104,14228531.0,Quarto  compartilhado e individual,86484443,Claudia,Unknown,Tijuca,-22.92952,-43.24822,Shared room,400,1,0,No_reviews,0.0,1,365,0,Unknown
+7117,14168087.0,Acomod.próximas ao Parque Olímpico,85736001,Patrícia,Unknown,Vargem Pequena,-22.98641,-43.45498,Shared room,474,10,0,No_reviews,0.0,1,362,0,Unknown
+7121,14168102.0,Hostel Maracanã,85740158,Elza,Unknown,Maracanã,-22.91381,-43.23442,Shared room,150,1,0,No_reviews,0.0,1,179,0,Unknown
+7187,14281747.0,Conforto e mobilidade em um local!,87141841,Rosane França,Unknown,Tijuca,-22.92616,-43.22884,Shared room,321,1,0,No_reviews,0.0,1,364,0,Unknown
+7218,14251482.0,KITNET PRÓXIMO AO PARQUE OLÍMPICO,86748464,Valquiria,Unknown,Freguesia (Jacarepaguá),-22.94682,-43.35087,Shared room,320,1,1,01/08/2019,0.03,2,365,0,Unknown
+7347,14308037.0,RIO DE JANEIRO-próximoV.Olímpica e Barra da Tijuca,84476458,Cassia,Unknown,Freguesia (Jacarepaguá),-22.94743,-43.35113,Shared room,69,1,12,18/06/2022,0.17,2,357,2,Unknown
+7355,14215814.0,A Toca de Santa #5,57358522,Pedro,Unknown,Santa Teresa,-22.92403,-43.19062,Shared room,120,2,4,21/02/2020,0.06,5,365,0,Unknown
+7361,14313785.0,"Rio de Verdade, conforto na Favela!!",87387031,Ricardo,Unknown,Santa Teresa,-22.92745,-43.19354,Shared room,149,1,0,No_reviews,0.0,1,365,0,Unknown
+7407,14320413.0,"Adega Vitis,espaço, hospedagem, comodidades,",87593349,Guilherme Cabral,Unknown,Freguesia (Jacarepaguá),-22.93731,-43.33284,Shared room,200,3,0,No_reviews,0.0,1,363,0,Unknown
+7461,14535489.0,Beds in Rio - Here you feel at home!,55248222,Filipi E Jessica,Unknown,Santa Teresa,-22.91743,-43.17969,Shared room,50,1,4,08/03/2022,0.06,5,364,2,Unknown
+7497,14357808.0,Sinta-se em casa.,88021760,Fátima Regina,Unknown,Recreio dos Bandeirantes,-23.02154,-43.46712,Shared room,500,1,0,No_reviews,0.0,2,89,0,Unknown
+7507,14358668.0,Espaço diferente p quem  precisa so p dormir,7955669,Katia,Unknown,Barra da Tijuca,-23.00411,-43.34975,Shared room,290,1,3,11/09/2016,0.04,16,365,0,Unknown
+7604,14419789.0,Penthouse Barra Tijuca: 1 bedroom-4 Beds-1 Bathrm,56094640,José,Unknown,Barra da Tijuca,-23.01251,-43.31348,Shared room,361,2,0,No_reviews,0.0,2,89,0,Unknown
+7637,15051560.0,Cama em Dorm Misto com 12 Camas em linda Villa,94483869,Equipe Do Villa,Unknown,Laranjeiras,-22.9311,-43.18033,Shared room,80,1,10,16/05/2022,0.36,2,316,6,Unknown
+7738,15252637.0,Quarto coletivo misto 07,57652725,Fátima,Unknown,Flamengo,-22.93825,-43.17835,Shared room,200,3,3,01/01/2019,0.05,7,365,0,Unknown
+7739,15769100.0,"República na Rua do Matoso, Praça da Bandeira",101969577,Hostel,Unknown,Rio Comprido,-22.9165,-43.21152,Shared room,100,30,0,No_reviews,0.0,1,365,0,Unknown
+7756,15276956.0,Vibrante,96817387,Edvaldo,Unknown,Tijuca,-22.92291,-43.23199,Shared room,203,60,0,No_reviews,0.0,1,358,0,Unknown
+7821,15837319.0,Espaço Elegance,102565507,Ana Claudia,Unknown,Centro,-22.90756,-43.17217,Shared room,220,2,0,No_reviews,0.0,1,359,0,Unknown
+7997,15579764.0,Lapa comfortable,100372144,Rio,Unknown,Centro,-22.91163,-43.18449,Shared room,157,1,0,No_reviews,0.0,1,365,0,Unknown
+8041,15655479.0,Quarto confortável para 2 pessoas,87935886,Zuleica,Unknown,Botafogo,-22.94875,-43.18277,Shared room,774,2,0,No_reviews,0.0,1,365,0,Unknown
+8315,16993028.0,Casa da Neusa - Quarto compartilhado,34609976,Neusa,Unknown,Vidigal,-22.99605,-43.23853,Shared room,60,1,2,16/09/2017,0.03,4,0,0,Unknown
+8344,17135892.0,Casa de interior aconchegante .,13695694,Catia,Unknown,Santa Cruz,-22.94509,-43.67394,Shared room,206,4,1,09/02/2017,0.02,1,365,0,Unknown
+8376,17027985.0,Tranquilo,114225629,Denair Da,Unknown,Copacabana,-22.96654,-43.18528,Shared room,1086,4,0,No_reviews,0.0,2,365,0,Unknown
+8520,17999548.0,✿ Comfy Hostel near all the Touristic Spots in Rio,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.95419,-43.18737,Shared room,60,1,19,16/05/2022,0.33,12,179,3,Unknown
+8537,18079348.0,$ Cheap Hostel ✌ Superb Services ⦿ Best Location,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.95483,-43.18653,Shared room,56,1,14,12/01/2022,0.23,12,179,4,Unknown
+8540,17589058.0,QUE TAL ACORDA DANDO BOM DIA AO CRISTO REDENTOR,119493597,Maria,Unknown,Botafogo,-22.95691,-43.19234,Shared room,60,1,23,14/06/2022,0.42,1,278,5,Unknown
+8574,18359768.0,Casa Colonial Freguesia Jpa RJ,67098495,Marilena,Unknown,Freguesia (Jacarepaguá),-22.9324,-43.34458,Shared room,140,1,0,No_reviews,0.0,3,365,0,Unknown
+8585,17605408.0,Gay House Beds D,119653597,Léo,Unknown,Copacabana,-22.96542,-43.17872,Shared room,50,4,3,02/01/2022,0.1,4,89,1,Unknown
+8656,18272783.0,Alugo Suite em Santa Teresa,2490810,Fatima,Unknown,Santa Teresa,-22.91543,-43.18146,Shared room,150,2,1,18/12/2017,0.02,1,365,0,Unknown
+8700,19148644.0,❤︎ Super Fun ☺︎ Hostel near Copacabana Beach ☯︎,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.9546,-43.18756,Shared room,60,1,66,10/04/2022,1.1,12,172,4,Unknown
+8725,18707312.0,Casa Colonial Rio de Janeiro,67098495,Marilena,Unknown,Freguesia (Jacarepaguá),-22.93546,-43.35138,Shared room,200,1,0,No_reviews,0.0,3,364,0,Unknown
+8743,18735071.0,Casa em Rio de Janeiro,67098495,Marilena,Unknown,Freguesia (Jacarepaguá),-22.93685,-43.33692,Shared room,180,2,0,No_reviews,0.0,3,365,0,Unknown
+8788,19870949.0,Rio Centro,83587245,Nilton,Unknown,Jacarepaguá,-22.96432,-43.40605,Shared room,200,2,6,05/10/2019,0.1,2,359,0,Unknown
+8791,19877867.0,CAMAS EM QUARTO COMPARTILHADO.,13936585,Gil Fraiha E Ana Maria,Unknown,Ipanema,-22.9836,-43.20869,Shared room,280,2,1,07/10/2019,0.03,2,351,0,Unknown
+8807,19311544.0,Amazing Cidade Maravilhosa,90334983,Luiz,Unknown,Laranjeiras,-22.93243,-43.18156,Shared room,52,1,18,25/04/2022,0.3,2,348,7,Unknown
+8810,19912122.0,The Best Of Rio,90334983,Luiz,Unknown,Laranjeiras,-22.93181,-43.18044,Shared room,52,1,33,29/05/2022,0.61,2,354,14,Unknown
+8846,18979697.0,☀︎ Comfortable Hostel ♀ Girls Only ☺︎ Safe & Clean,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.95363,-43.18758,Shared room,60,1,11,07/03/2022,0.19,12,172,2,Unknown
+8918,20349839.0,Quarto apartamento família,145144655,Breno,Unknown,Tijuca,-22.93105,-43.24336,Shared room,76,18,40,28/04/2022,0.69,2,361,6,Unknown
+9044,20638064.0,Tia Olimpia Hostel.,2429057,Olimpia,Unknown,Barra da Tijuca,-22.99751,-43.35014,Shared room,200,3,5,02/01/2022,0.09,3,187,1,Unknown
+9150,21610928.0,Quarto compartilhado.,130464836,Ricardo,Unknown,Recreio dos Bandeirantes,-23.02203,-43.49285,Shared room,70,1,3,05/04/2022,0.06,2,261,1,Unknown
+9166,21628354.0,Morada dos Torres,157360236,Luiz,Unknown,Abolição,-22.88491,-43.29834,Shared room,129,2,0,No_reviews,0.0,1,89,0,Unknown
+9169,21408441.0,Repouso do Corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94459,-43.20708,Shared room,90,1,5,15/11/2021,0.09,9,365,1,Unknown
+9205,21448656.0,Casa 1 quarto alem,155642978,Felipe,Unknown,Complexo do Alemão,-22.85998,-43.27476,Shared room,900,1,1,28/11/2017,0.02,1,365,0,Unknown
+9271,21113335.0,Sala de estar,117609992,Paulo Roberto,Unknown,Humaitá,-22.95512,-43.19573,Shared room,160,1,0,No_reviews,0.0,2,365,0,Unknown
+9389,21947684.0,"ROOM 6 BEDS for Grups - Parque Olímpico, RioCentro",3308731,Luiz Gustavo,Unknown,Jacarepaguá,-22.96761,-43.39617,Shared room,100,1,2,28/02/2022,0.05,8,350,1,Unknown
+9463,21891203.0,Temporada Boulevard Olímpico!,157315903,Leandro Urubatan,Unknown,Centro,-22.89555,-43.18094,Shared room,50,1,34,13/06/2021,0.7,1,0,0,Unknown
+9488,22435615.0,Hostel Solar do Recreio,74228462,Lily,Unknown,Recreio dos Bandeirantes,-23.0111,-43.46661,Shared room,85,1,1,28/09/2019,0.03,1,347,0,Unknown
+9489,22436229.0,RIO DE JANEIRO - Jacarepaguá,84476458,Cassia,Unknown,Freguesia (Jacarepaguá),-22.94867,-43.34921,Shared room,79,1,8,14/03/2022,0.24,2,357,6,Unknown
+9500,22065837.0,Lar em Campo Grande,161180922,Douglas,Unknown,Guaratiba,-22.95642,-43.57491,Shared room,900,1,1,28/01/2018,0.02,1,365,0,Unknown
+9514,22482781.0,"cama para descanso (cama, colchao ou sofa cama).",24797835,Augusto,Unknown,Santa Teresa,-22.92205,-43.18196,Shared room,99,4,2,02/01/2022,0.07,1,363,1,Unknown
+9730,22656539.0,Apto localizado a uma quadra da praia de Ipanema!,137676124,Vaneide,Unknown,Ipanema,-22.9844,-43.213,Shared room,214,1,9,01/03/2022,0.17,1,365,4,Unknown
+9762,22970072.0,Aluga-se quartos compartilhados em casa de familia,170216674,Ana,Unknown,Vila Isabel,-22.91928,-43.24712,Shared room,100,1,5,25/02/2020,0.12,2,365,0,Unknown
+9815,23247845.0,VERY COZY.,173013173,Rosilene,Unknown,Copacabana,-22.98053,-43.19146,Shared room,413,7,6,26/02/2020,0.12,1,180,0,Unknown
+9817,23253930.0,Quarto coletivo misto 06,57652725,Fátima,Unknown,Flamengo,-22.93874,-43.17797,Shared room,200,3,0,No_reviews,0.0,7,365,0,Unknown
+9894,23459821.0,"Q coletivo 10pess,Led,2Vent G.Comoda,Gr.arm 12chav",64412606,Maria De Fátima Soares,Unknown,Flamengo,-22.93632,-43.17815,Shared room,65,1,12,25/04/2022,0.4,3,358,9,Unknown
+9916,23083482.0,"Ótimo quarto, por temporada, de 5 a 15 dias",171410217,Aurilene,Unknown,Centro,-22.91495,-43.18761,Shared room,136,7,0,No_reviews,0.0,1,87,0,Unknown
+10069,25325269.0,Vidigal Varandas Hostel,76847164,Eduardo,Unknown,Vidigal,-22.99734,-43.24104,Shared room,55,1,18,12/05/2022,0.41,2,358,8,Unknown
+10097,24693146.0,Casa da Nayana,15653386,Nayana,Unknown,Freguesia (Jacarepaguá),-22.93946,-43.33788,Shared room,50,1,0,No_reviews,0.0,1,364,0,Unknown
+10191,24160103.0,Moradia comparilhada,182070499,Ana MARIA,Unknown,Madureira,-22.87875,-43.32966,Shared room,48,30,0,No_reviews,0.0,1,364,0,Unknown
+10423,28229240.0,Pousada Manaaim,213230578,Alexandre,Unknown,Engenho Novo,-22.90639,-43.26774,Shared room,64,2,2,01/01/2020,0.05,8,365,0,Unknown
+10508,27655549.0,Charmoso Apt QT/SL na Lapa - RJ,157203523,Marilena,Unknown,Centro,-22.91178,-43.18835,Shared room,164,3,2,30/09/2019,0.05,1,365,0,Unknown
+10571,28515377.0,Gay House beds  A,119653597,Léo,Unknown,Copacabana,-22.96439,-43.17961,Shared room,50,3,10,01/05/2022,0.24,4,79,5,Unknown
+10625,28667606.0,Conjugado com bom espaco e boa vista. arejado.,216296207,Gilnei,Unknown,Leme,-22.96372,-43.17279,Shared room,300,7,0,No_reviews,0.0,1,365,0,Unknown
+10646,29301941.0,Suíte Compartilhada Feminina PARIS,212665255,Sam'S Home,Unknown,Recreio dos Bandeirantes,-23.00959,-43.46906,Shared room,145,1,0,No_reviews,0.0,4,356,0,Unknown
+10647,29302110.0,Suíte Compartilhada Masculina HOLLYWOOD,212665255,Sam'S Home,Unknown,Recreio dos Bandeirantes,-23.00959,-43.46906,Shared room,145,1,2,10/10/2021,0.05,4,356,1,Unknown
+10652,27954703.0,206 - Madureira (Coletivo Misto),171869673,Denise,Unknown,Rio Comprido,-22.92114,-43.21359,Shared room,75,2,0,No_reviews,0.0,7,175,0,Unknown
+10657,27958935.0,207 - Maracanã (Coletivo Misto),171869673,Denise,Unknown,Tijuca,-22.92079,-43.21562,Shared room,56,1,2,31/10/2019,0.05,7,175,0,Unknown
+10708,29351491.0,Casa AZUL perto da URFJ,13948378,Carla,Unknown,Cidade Universitária,-22.86733,-43.21761,Shared room,50,1,3,13/12/2020,0.07,1,364,0,Unknown
+10743,29790478.0,Quartos Compartilhados - Solteiros na LAGOA,210041079,Goya,Unknown,Lagoa,-22.96427,-43.19861,Shared room,200,1,3,04/01/2020,0.09,6,365,0,Unknown
+10793,29825824.0,Hosters de Anchieta RJ,216988147,Célio,Unknown,Parque Anchieta,-22.83334,-43.41251,Shared room,70,10,0,No_reviews,0.0,1,180,0,Unknown
+10936,30084623.0,OTIMO QUARTO COMPARTILHADO PRÓXIMO A LAPA,226058185,Paulo,Unknown,Centro,-22.90891,-43.18963,Shared room,90,2,1,21/11/2018,0.02,1,364,0,Unknown
+10961,30120486.0,Venha conhecer o Vidigal com conforto e qualidade,226215025,Marcus,Unknown,Vidigal,-22.99185,-43.23597,Shared room,137,2,1,01/01/2019,0.02,1,364,0,Unknown
+11015,30152650.0,Compartilhar quarto,226541008,Paulo Robson,Unknown,Ramos,-22.84737,-43.25117,Shared room,50,1,0,No_reviews,0.0,1,364,0,Unknown
+11248,30727417.0,Gay House beds,119653597,Léo,Unknown,Copacabana,-22.96512,-43.18018,Shared room,50,3,3,28/02/2020,0.07,4,354,0,Unknown
+11345,31150664.0,Quarto coletivo misto 05,57652725,Fátima,Unknown,Flamengo,-22.93896,-43.17659,Shared room,200,3,2,04/01/2020,0.06,7,365,0,Unknown
+11346,31150827.0,Quarto coletivo misto 04,57652725,Fátima,Unknown,Flamengo,-22.9371,-43.17657,Shared room,200,3,2,07/10/2019,0.05,7,365,0,Unknown
+11347,31151208.0,Quarto coletivo misto 03,57652725,Fátima,Unknown,Flamengo,-22.93725,-43.1762,Shared room,200,3,1,06/10/2019,0.03,7,365,0,Unknown
+11355,31151494.0,Quarto coletivo misto 02,57652725,Fátima,Unknown,Flamengo,-22.93849,-43.1779,Shared room,200,3,2,23/02/2020,0.05,7,365,0,Unknown
+11356,31151680.0,Quarto coletivo misto 01,57652725,Fátima,Unknown,Flamengo,-22.93893,-43.17623,Shared room,200,3,1,06/03/2019,0.02,7,365,0,Unknown
+11394,31322727.0,"Anexo com cama individual, ideal para dormir",234471440,Jesus,Unknown,Copacabana,-22.98388,-43.19345,Shared room,124,5,1,06/03/2019,0.02,1,89,0,Unknown
+11465,31408461.0,Hostel Vista do Mar/ cama 5/10 camas,220255859,Nevinha,Unknown,Vidigal,-22.99608,-43.23843,Shared room,80,2,0,No_reviews,0.0,11,89,0,Unknown
+11477,30982827.0,Quarto grande com duas vagas em Copacabana,12389782,Monica,Unknown,Copacabana,-22.96518,-43.17785,Shared room,40000,7,2,29/02/2020,0.05,3,364,0,Unknown
+11549,31491741.0,Quarto perto do que há de melhor em Ipanema,43538717,Camilla,Unknown,Ipanema,-22.98171,-43.20756,Shared room,214,1,4,14/02/2021,0.1,2,0,0,Unknown
+11550,31491850.0,Triunfo 30 Bangalow,230489019,Roberto,Unknown,Santa Teresa,-22.92096,-43.18525,Shared room,650,2,1,24/02/2020,0.04,2,364,0,Unknown
+11697,32028444.0,☀︎Comfy ⚥ Mixed Room for 6 ☺︎ Safe & Clean Hostel,67850207,Tupiniquim Hostel,Unknown,Botafogo,-22.95578,-43.18571,Shared room,60,1,1,19/04/2019,0.03,12,7,0,Unknown
+11797,32103008.0,The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.9967,-43.24133,Shared room,56,1,0,No_reviews,0.0,10,365,0,Unknown
+11800,32104153.0,The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99658,-43.23987,Shared room,56,1,0,No_reviews,0.0,10,365,0,Unknown
+11806,32104630.0,Vejam Isso! The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99679,-43.24096,Shared room,56,1,0,No_reviews,0.0,10,365,0,Unknown
+11807,32105265.0,The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.9964,-43.24095,Shared room,56,1,0,No_reviews,0.0,10,365,0,Unknown
+11808,32105529.0,Vejam Isso! The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99464,-43.24101,Shared room,56,1,3,10/01/2021,0.11,10,365,0,Unknown
+11809,32105765.0,Vejam Isso! The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99639,-43.24132,Shared room,56,1,2,27/02/2020,0.06,10,365,0,Unknown
+11810,32105907.0,The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99477,-43.24157,Shared room,56,1,1,07/03/2019,0.02,10,365,0,Unknown
+11811,32106086.0,Vejam Isso! The Best Treatment in Rio! O Melhor Tratamento Do Rio!,44428550,Carlos,Unknown,Vidigal,-22.99626,-43.24145,Shared room,56,1,5,17/04/2022,0.12,10,365,1,Unknown
+11964,32655192.0,Gay House Beds C,119653597,Léo,Unknown,Copacabana,-22.96439,-43.17961,Shared room,50,3,6,26/02/2022,0.15,4,89,3,Unknown
+11965,32658377.0,quarto na lagoa,156573492,Míriam,Unknown,Lagoa,-22.96822,-43.20176,Shared room,189,1,1,24/02/2020,0.04,1,365,0,Unknown
+11979,32425496.0,Quarto da Lídia/Casal,243515185,Olidia,Unknown,Campo Grande,-22.9068,-43.56287,Shared room,81,1,34,02/05/2022,0.85,2,365,11,Unknown
+12017,32444198.0,Ávila House,235241011,Ávila,Unknown,Grajaú,-22.92471,-43.26488,Shared room,100,1,1,02/03/2019,0.02,2,363,0,Unknown
+12019,32575245.0,Santa Carioca,238713778,Maria,Unknown,Santa Teresa,-22.92309,-43.1838,Shared room,150,3,3,02/11/2019,0.07,4,364,0,Unknown
+12049,32589993.0,CARNAVAL EM SANTA TERESA,244151757,Miguel Gastao,Unknown,Santa Teresa,-22.91914,-43.19082,Shared room,1000,3,0,No_reviews,0.0,1,365,0,Unknown
+12057,32593991.0,Casa proximo praia,223914519,Janaina,Unknown,Gamboa,-22.89442,-43.19227,Shared room,350,1,0,No_reviews,0.0,1,365,0,Unknown
+12104,32749248.0,Hostel Lapa 166 Quarto Compartilhado Misto,245865182,Hostel Lapa 166,Unknown,Centro,-22.9132,-43.18685,Shared room,65,2,1,24/04/2022,0.51,4,108,1,Unknown
+12108,32492267.0,QUARTO COPACABANA,47248185,Maria Luiza,Unknown,Copacabana,-22.96753,-43.1886,Shared room,250,3,3,01/03/2022,0.07,6,55,2,Unknown
+12134,32640004.0,Quarto no Catete,245401478,Joice,Unknown,Catete,-22.92674,-43.1768,Shared room,50,4,1,28/02/2019,0.02,1,363,0,Unknown
+12153,32777379.0,Hostel Lapa 166 Quarto Compartilhado Misto,245865182,Hostel Lapa 166,Unknown,Centro,-22.91197,-43.18469,Shared room,65,2,13,10/06/2022,0.34,4,115,5,Unknown
+12159,33614795.0,Apartamento compartilhado de amigos copacabana,128937390,David,Unknown,Copacabana,-22.96527,-43.1868,Shared room,120,3,0,No_reviews,0.0,2,364,0,Unknown
+12161,32802186.0,Hostel Lapa 166 Quarto Feminino Compartilhado,245865182,Hostel Lapa 166,Unknown,Centro,-22.91305,-43.18496,Shared room,65,2,2,23/04/2022,0.06,4,117,1,Unknown
+12166,32836579.0,Quarto mobiliado no Bairro Maracanã,247006083,Andréa,Unknown,Tijuca,-22.91554,-43.21845,Shared room,50,1,0,No_reviews,0.0,1,363,0,Unknown
+12176,33045316.0,AP Compartilhado Centro,227487965,Tiago,Unknown,Centro,-22.91183,-43.17673,Shared room,60,1,33,10/06/2022,0.85,1,16,8,Unknown
+12187,33660281.0,11,253684064,Aaaa,Unknown,Ipanema,-22.98248,-43.19833,Shared room,1200,8,0,No_reviews,0.0,1,89,0,Unknown
+12192,33064758.0,"residencia arte, felismina 1",226168489,Otavio Rodrigues,Unknown,Santa Teresa,-22.91538,-43.17931,Shared room,155,3,1,27/06/2019,0.03,1,364,0,Unknown
+12197,33092856.0,204 - Lapa (Coletivo Misto com banheiro),171869673,Denise,Unknown,Tijuca,-22.9204,-43.21585,Shared room,75,1,2,07/10/2019,0.06,7,365,0,Unknown
+12208,33705108.0,RICARDO CASA PORTO SEGURO TUR COM WI-FI,254063828,Jose Ricardo,Unknown,Copacabana,-22.96655,-43.17765,Shared room,50,1,42,21/03/2020,1.15,1,0,0,Unknown
+12213,33138826.0,Apartamento pontões da barra 109,248186495,Fernanda,Unknown,Barra da Tijuca,-23.00715,-43.43172,Shared room,279,1,0,No_reviews,0.0,3,358,0,Unknown
+12229,32912510.0,Pousada Manaaim,213230578,Alexandre,Unknown,Engenho Novo,-22.90414,-43.26783,Shared room,51,1,4,08/05/2022,0.13,8,365,2,Unknown
+12311,34373603.0,Quarto da Carioca,259517236,Caroline,Unknown,Realengo,-22.88916,-43.41536,Shared room,40,1,0,No_reviews,0.0,1,364,0,Unknown
+12315,33270470.0,CAMA EM DORMIT. COMPARTILHADO MASCULINO C/ AR-COND,76206797,Leandro,Unknown,Centro,-22.90764,-43.19319,Shared room,150,2,1,23/12/2019,0.03,3,354,0,Unknown
+12350,34412391.0,"Quarto duplo, somente para moças na República",105458113,Rosangela,Unknown,Botafogo,-22.95682,-43.18368,Shared room,150,30,0,No_reviews,0.0,2,83,0,Unknown
+12375,33358092.0,3-parque olimpico/ rio centro/ barra/projac,145036386,Amanda,Unknown,Jacarepaguá,-22.97358,-43.41162,Shared room,179,1,1,07/10/2019,0.03,2,357,0,Unknown
+12397,34495732.0,Hospedagem em JACAREPAGUÁ - HOSTEL MATTOS 1,132833037,Greice,Unknown,Taquara,-22.92574,-43.37718,Shared room,91,1,7,14/02/2020,0.18,2,357,0,Unknown
+12436,34570322.0,QUARTO 3,260600278,Varandas Do Maracanã,Unknown,Maracanã,-22.91427,-43.23211,Shared room,85,1,1,19/09/2019,0.03,6,361,0,Unknown
+12438,34571697.0,QUARTO 4,260600278,Varandas Do Maracanã,Unknown,Maracanã,-22.91472,-43.23016,Shared room,85,1,1,27/04/2022,0.54,6,365,1,Unknown
+12444,34573304.0,Aluga Vaga Compartilhada Apartamento Centro do Rio,260867156,Agnaldo,Unknown,Centro,-22.91073,-43.19055,Shared room,400,1,0,No_reviews,0.0,1,363,0,Unknown
+12482,33574524.0,Alugo quarto com duas camas individuais ou casal,99694983,Nuno,Unknown,Copacabana,-22.96667,-43.19093,Shared room,150,5,2,28/02/2020,0.06,2,263,0,Unknown
+12529,35568029.0,Xxxxxxxxxxxxxxxxxx,267531645,Marcos Aurélio,Unknown,Copacabana,-22.97336,-43.19175,Shared room,600,2,1,02/01/2022,0.18,2,173,1,Unknown
+12546,34720473.0,Aloha hostel recreio (Quarto compartilhado),524550,Dida,Unknown,Recreio dos Bandeirantes,-23.03143,-43.47443,Shared room,75,2,6,06/02/2022,0.18,3,352,2,Unknown
+12562,34784776.0,Aluga-se vaga em quarto compartilhado !,170216674,Ana,Unknown,Vila Isabel,-22.91917,-43.24806,Shared room,140,1,1,06/10/2019,0.03,2,90,0,Unknown
+12631,35913272.0,"Quarto aconchegante, seguro e ótima hospitalidade",270125255,Vanusia,Unknown,Santa Cruz,-22.93925,-43.69332,Shared room,5000,5,0,No_reviews,0.0,1,365,0,Unknown
+12678,35299099.0,aluguel indisponível,265758754,Valeria,Unknown,Ipanema,-22.98571,-43.1931,Shared room,680,2,2,09/07/2019,0.05,1,90,0,Unknown
+12717,36114876.0,Apartamento em Copacabana de frente para o mar,271664609,Cecilio,Unknown,Leme,-22.96323,-43.17207,Shared room,439,6,0,No_reviews,0.0,9,88,0,Unknown
+12741,36171475.0,"Apt aconchegantes, famíliar ,Gosto de fazer amigos",112969063,Dinalva,Unknown,Copacabana,-22.96328,-43.17617,Shared room,200,30,0,No_reviews,0.0,1,365,0,Unknown
+12771,35477109.0,Terraço - Coletive LapaHouse Music,115075111,Ellysabeth,Unknown,Santa Teresa,-22.91571,-43.18233,Shared room,34,1,11,23/04/2022,0.3,6,353,7,Unknown
+12823,36672547.0,Bairro boêmio.(somente para mulheres),275639736,Thais,Unknown,Santa Teresa,-22.91768,-43.17909,Shared room,90,1,3,04/01/2020,0.09,1,364,0,Unknown
+12942,37556142.0,Cama Dorm Misto de 9 s/ar no Beach House Ipanema,37776540,Mariana,Unknown,Ipanema,-22.98202,-43.20956,Shared room,71,1,62,30/05/2022,3.62,6,171,55,Unknown
+12960,37176457.0,Lapa Casa Hostel - Rock In Rio 2022,271615742,Rita,Unknown,Santa Teresa,-22.91468,-43.18291,Shared room,50,1,1,02/12/2019,0.03,3,15,0,Unknown
+13041,37250077.0,"Quarto amplo, acomoda 2 pessoas perfeitamente.",135571648,Flávia,Unknown,Vila da Penha,-22.84486,-43.30901,Shared room,180,1,0,No_reviews,0.0,1,363,0,Unknown
+13053,37289899.0,Hostel Vista do Mar 201/01,220255859,Nevinha,Unknown,Vidigal,-22.99735,-43.23922,Shared room,80,2,0,No_reviews,0.0,11,89,0,Unknown
+13054,37290367.0,Apartamento BARRA DA TIJUCA 704,248186495,Fernanda,Unknown,Barra da Tijuca,-23.00782,-43.42952,Shared room,200,1,0,No_reviews,0.0,3,356,0,Unknown
+13088,38188935.0,2-parque olimpico/ rio centro/ barra/projac,145036386,Amanda,Unknown,Jacarepaguá,-22.97393,-43.41162,Shared room,179,1,1,06/10/2019,0.03,2,308,0,Unknown
+13164,37782071.0,Repousodo corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94448,-43.20714,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+13166,37805403.0,Quarto em Irajá,286130426,Lilian,Unknown,Irajá,-22.84853,-43.3297,Shared room,90,1,14,16/12/2020,0.41,1,180,0,Unknown
+13196,38783023.0,Aconchego familiar,296611263,Carolina,Unknown,Vila da Penha,-22.8478,-43.30879,Shared room,60,28,0,No_reviews,0.0,1,90,0,Unknown
+13197,38551396.0,Grey House,294141241,Rose,Unknown,Jardim Sulacap,-22.8906,-43.40064,Shared room,116,1,4,01/01/2020,0.12,1,361,0,Unknown
+13198,38551926.0,Quarto 2 em Pousada Nutri Luz,177917831,Catia,Unknown,Vargem Grande,-22.96418,-43.47676,Shared room,200,1,2,06/10/2019,0.06,3,364,0,Unknown
+13297,38328459.0,"01- Glória, Lapa,  Zona Sul, metrô!",290541170,Caca,Unknown,Santa Teresa,-22.92153,-43.18176,Shared room,190,1,0,No_reviews,0.0,7,89,0,Unknown
+13383,38413606.0,Apt Barra da Tijuca 511,248186495,Fernanda,Unknown,Barra da Tijuca,-23.00869,-43.43126,Shared room,200,1,1,10/11/2019,0.03,3,359,0,Unknown
+13436,38956506.0,Apartamento compartilhado de amigos em copa,128937390,David,Unknown,Copacabana,-22.96701,-43.1887,Shared room,120,3,0,No_reviews,0.0,2,365,0,Unknown
+13437,38956821.0,Pensionato Feminino 309 Individual Segurança WIFI,158933362,Cássia Ou Arlindo,Unknown,Botafogo,-22.95184,-43.18024,Shared room,60,1,32,21/05/2022,1.02,10,334,13,Unknown
+13444,38751064.0,Quarto Compartilhado/inteiro Friendly-Copacabana,37841028,Marcos Antonio,Unknown,Copacabana,-22.98239,-43.19399,Shared room,130,1,18,12/03/2022,0.54,1,352,3,Unknown
+13476,39210756.0,Oceanário apartment,300883992,Gregary,Unknown,Jacarepaguá,-22.97503,-43.33542,Shared room,64,8,0,No_reviews,0.0,1,90,0,Unknown
+13541,39022159.0,"03-Sua casa pertinho da praia , Zona Sul.",290541170,Caca,Unknown,Santa Teresa,-22.92181,-43.18151,Shared room,190,1,2,24/02/2020,0.06,7,87,0,Unknown
+13640,39105544.0,Uma Casa Gentil para Pessoas Gentis.,180904948,Daniela,Unknown,Jacarepaguá,-22.92644,-43.43036,Shared room,400,2,0,No_reviews,0.0,1,90,0,Unknown
+13652,39476866.0,copa cabana,175804960,Atala,Unknown,Anil,-22.96334,-43.33598,Shared room,99,15,0,No_reviews,0.0,1,363,0,Unknown
+13687,39137681.0,Alugo Quarto no Reserva da praia,300199107,Everton,Unknown,Vargem Pequena,-22.98467,-43.46372,Shared room,273,1,0,No_reviews,0.0,1,178,0,Unknown
+13719,39196220.0,Apartamento - Copacabana,300754988,Thomas,Unknown,Copacabana,-22.96624,-43.18117,Shared room,1549,1,0,No_reviews,0.0,1,83,0,Unknown
+13738,39795767.0,Pousada Maanaim,213230578,Alexandre,Unknown,Engenho Novo,-22.90566,-43.26975,Shared room,51,2,0,No_reviews,0.0,8,365,0,Unknown
+13805,39792467.0,Cama em Dorm Misto com 6 Camas em linda Villa,94483869,Equipe Do Villa,Unknown,Laranjeiras,-22.93168,-43.18111,Shared room,87,1,4,02/03/2022,0.13,2,318,1,Unknown
+13811,39795504.0,Pousada Maanaim,213230578,Alexandre,Unknown,Engenho Novo,-22.90599,-43.26764,Shared room,51,2,0,No_reviews,0.0,8,179,0,Unknown
+13925,39943886.0,"#3 Bienal,Junesse Arena,Projac, Rock in Rio",162366245,Karol,Unknown,Jacarepaguá,-22.97433,-43.4103,Shared room,186,1,1,10/11/2019,0.03,4,358,0,Unknown
+13984,40179123.0,"#1 Bienal,Junesse Arena, Praias Rock In Rio.",162366245,Karol,Unknown,Jacarepaguá,-22.97415,-43.4124,Shared room,186,1,1,01/01/2020,0.03,4,96,0,Unknown
+14042,40222147.0,Apt fofo para moças que gostem de criança e gatos,95314550,Karla,Unknown,Andaraí,-22.92715,-43.25287,Shared room,71,1,1,05/01/2020,0.03,1,365,0,Unknown
+14077,40255487.0,"Alugo quarto espaçoso, arejado, ótima localizaçao",310903662,Carla,Unknown,Santa Teresa,-22.91636,-43.18319,Shared room,150,2,2,23/04/2022,0.07,1,365,1,Unknown
+14156,40697863.0,FERIAS no RIO 1 CAMA de SOLTEIRO NA SALA,127482352,Kristy,Unknown,Copacabana,-22.97304,-43.18998,Shared room,185,4,0,No_reviews,0.0,1,89,0,Unknown
+14254,40605087.0,Lapa Casa Hostel - Rio de Janeiro - Carnaval 2022,271615742,Rita,Unknown,Santa Teresa,-22.91486,-43.18114,Shared room,68,4,1,21/01/2020,0.03,3,359,0,Unknown
+14349,40637288.0,1 cama de casal no conjugado em Copa/Leme,165186588,Felipe,Unknown,Copacabana,-22.96438,-43.17526,Shared room,200,1,2,13/01/2020,0.07,1,12,0,Unknown
+14399,40934027.0,Quartos mobiliados Rio de janeiro temporada/Mensal,112504243,Sonia,Unknown,Méier,-22.8952,-43.2798,Shared room,80,3,1,03/01/2020,0.03,8,359,0,Unknown
+14480,41106808.0,"07- Sona Sul, praia, Lapa, perto de tudo, metrô.",290541170,Caca,Unknown,Santa Teresa,-22.92233,-43.1806,Shared room,190,1,0,No_reviews,0.0,7,87,0,Unknown
+14500,41240300.0,Solar Pedra da Gávea - compartilhado,323755809,Isabela,Unknown,Barra da Tijuca,-23.00344,-43.29646,Shared room,120,1,0,No_reviews,0.0,3,88,0,Unknown
+14519,41247187.0,"Hana hostel, Albergue e República 3",323842917,HAna Hostel Albergues E,Unknown,Rocinha,-22.99052,-43.2521,Shared room,51,1,0,No_reviews,0.0,5,365,0,Unknown
+14527,41257849.0,Solar Pedra da Gávea,323755809,Isabela,Unknown,Barra da Tijuca,-23.00325,-43.2967,Shared room,120,1,0,No_reviews,0.0,3,179,0,Unknown
+14585,41130976.0,"8- Zona Sul, do ladinho da Lapa! Metrô. MASCULINO",290541170,Caca,Unknown,Glória,-22.91966,-43.17826,Shared room,190,1,0,No_reviews,0.0,7,90,0,Unknown
+14588,41131685.0,"09- Lapa e zona Sul, praia e metrô MASCULINO",290541170,Caca,Unknown,Santa Teresa,-22.92199,-43.18227,Shared room,190,1,0,No_reviews,0.0,7,89,0,Unknown
+14592,41140476.0,"10- Glória na rua do metrô, praia, Lapa! MASCULINO",290541170,Caca,Unknown,Catete,-22.92373,-43.18115,Shared room,190,1,0,No_reviews,0.0,7,89,0,Unknown
+14601,41323165.0,Quarto para aluguel ou temporadas,324706603,Marcello,Unknown,Rio Comprido,-22.92685,-43.20932,Shared room,800,1,0,No_reviews,0.0,1,180,0,Unknown
+14604,41054895.0,Quarto  Compartilhado temporada Rio de janeiro,112504243,Sonia,Unknown,Méier,-22.89735,-43.27974,Shared room,72,3,0,No_reviews,0.0,8,365,0,Unknown
+14636,41060792.0,"Espaço maravilhoso! Pássaros, mar e natureza.",73060571,Katia,Unknown,Copacabana,-22.96455,-43.18174,Shared room,300,1,0,No_reviews,0.0,1,90,0,Unknown
+14670,41174118.0,Sweet Place 3,187408793,Vitor,Unknown,Laranjeiras,-22.93426,-43.18848,Shared room,95,1,0,No_reviews,0.0,1,90,0,Unknown
+14677,41189275.0,"SOFÁ-CAMA, EM SALA DE VISITA/ JANTAR.",316921706,Paulo,Unknown,Flamengo,-22.92645,-43.17487,Shared room,63,1,6,06/06/2022,0.2,7,156,4,Unknown
+14762,41532220.0,Casa da Andressa,303489661,Geovana Vithoria,Unknown,Anchieta,-22.81656,-43.38878,Shared room,800,3,0,No_reviews,0.0,2,90,0,Unknown
+14800,41556806.0,"Casa 422 com conforto, segurança e tranquilidade",327377210,Myriam,Unknown,Guaratiba,-22.97889,-43.58245,Shared room,159,1,0,No_reviews,0.0,1,365,0,Unknown
+14826,41743721.0,Alugo vagas na República somente para moças.,105458113,Rosangela,Unknown,Botafogo,-22.95589,-43.18147,Shared room,150,15,0,No_reviews,0.0,2,83,0,Unknown
+14827,41744313.0,Comfortable Living room for 2 /easy access,291849270,Livia,Unknown,Laranjeiras,-22.93657,-43.18434,Shared room,56,2,4,13/03/2020,0.14,3,3,0,Unknown
+14921,41984049.0,Venha para o aconchego de Vila isabel,331433996,Marcia,Unknown,Andaraí,-22.91979,-43.25078,Shared room,120,3,0,No_reviews,0.0,1,365,0,Unknown
+14947,41898382.0,quartos populares pode cozinhar  ambiente familiar,331317764,Paul,Unknown,Coelho Neto,-22.82547,-43.35006,Shared room,56,5,0,No_reviews,0.0,1,365,0,Unknown
+14965,41775087.0,Residência familiar. Só para mulheres. No smoking.,289962026,Luciana,Unknown,Botafogo,-22.95476,-43.17944,Shared room,86,1,3,02/03/2022,0.11,2,360,2,Unknown
+14987,41776015.0,Casa na ilha do Governador. Quarto compartilhado.,330049732,Maristela,Unknown,Portuguesa,-22.80351,-43.20926,Shared room,119,1,1,26/01/2020,0.03,2,365,0,Unknown
+14988,41776365.0,Quarto compartilhado próximo ao Aeroporto Galeão,330049732,Maristela,Unknown,Portuguesa,-22.8016,-43.21072,Shared room,109,1,0,No_reviews,0.0,2,365,0,Unknown
+15027,41927796.0,Quarto amplo copacabana,37427403,Arthur,Unknown,Copacabana,-22.98078,-43.1956,Shared room,100,3,2,02/01/2022,0.07,3,365,1,Unknown
+15081,42045157.0,Carnaval no Rio direto da Praia da  B. da Tijuca,52096712,Da Cunha,Unknown,Barra da Tijuca,-23.01121,-43.34037,Shared room,428,4,0,No_reviews,0.0,1,179,0,Unknown
+15088,41975646.0,11- Zona Sul do lado da Lapa e praias.,290541170,Caca,Unknown,Glória,-22.92203,-43.17996,Shared room,190,1,0,No_reviews,0.0,7,365,0,Unknown
+15121,42066640.0,Hostel Vista do Mar 401/02,220255859,Nevinha,Unknown,Vidigal,-22.99629,-43.23879,Shared room,80,2,0,No_reviews,0.0,11,364,0,Unknown
+15128,42069921.0,Hostel Vista do Mar 401/04,220255859,Nevinha,Unknown,Vidigal,-22.99544,-43.23836,Shared room,80,2,0,No_reviews,0.0,11,89,0,Unknown
+15132,42071428.0,Hostel Vista do Mar 401/03,220255859,Nevinha,Unknown,Vidigal,-22.99738,-43.23906,Shared room,80,2,0,No_reviews,0.0,11,89,0,Unknown
+15145,42086907.0,Hostel Vista do Mar/ cama 2/12 camas,220255859,Nevinha,Unknown,Vidigal,-22.99598,-43.23711,Shared room,80,2,1,23/02/2020,0.04,11,89,0,Unknown
+15161,42138331.0,Pousada Maanaim,213230578,Alexandre,Unknown,Engenho Novo,-22.90562,-43.26967,Shared room,51,2,2,01/01/2022,0.07,8,365,1,Unknown
+15171,42254601.0,Cobertura dos 6: Quarto Lucca,218282439,Giulia,Unknown,Tijuca,-22.9252,-43.24264,Shared room,400,3,2,02/01/2022,0.07,3,173,1,Unknown
+15178,42089605.0,Hostel Vista do Mar/cama 3-quarto 10 camas,220255859,Nevinha,Unknown,Vidigal,-22.99613,-43.23904,Shared room,80,2,0,No_reviews,0.0,11,364,0,Unknown
+15179,42089963.0,Hostel Vista para o Mar/cama 4/10 camas,220255859,Nevinha,Unknown,Vidigal,-22.99622,-43.2375,Shared room,80,2,0,No_reviews,0.0,11,87,0,Unknown
+15188,42260878.0,"UMA CAMA DE SOLTEIRO, EM QUARTO COMPARTILHADO,C-1.",316921706,Paulo,Unknown,Flamengo,-22.92647,-43.17558,Shared room,73,1,0,No_reviews,0.0,7,8,0,Unknown
+15189,42261073.0,"UMA CAMA DE SOLTEIRO, EM QUARTO COMPARTILHADO,C-2.",316921706,Paulo,Unknown,Flamengo,-22.92621,-43.17545,Shared room,73,1,0,No_reviews,0.0,7,28,0,Unknown
+15240,42278331.0,Apartamento conjugado para o carnaval,114225629,Denair Da,Unknown,Copacabana,-22.96528,-43.17662,Shared room,500,4,0,No_reviews,0.0,2,179,0,Unknown
+15365,42365777.0,Suite em Mar do Atlântico para  Casal,336998802,Sea,Unknown,Santa Teresa,-22.92173,-43.18556,Shared room,180,2,0,No_reviews,0.0,1,16,0,Unknown
+15367,42373676.0,Copa Alegria,49480472,Hilma,Unknown,Copacabana,-22.97985,-43.19149,Shared room,90,1,1,26/02/2020,0.04,2,361,0,Unknown
+15369,42325710.0,Cobertura dos 6: Quarto Escritório,218282439,Giulia,Unknown,Tijuca,-22.92635,-43.24167,Shared room,300,3,1,26/02/2020,0.04,3,180,0,Unknown
+15422,42620149.0,2 hóspedes quarto 1 cama queen  1 banheiro aluguel,70590836,Luzineide,Unknown,Copacabana,-22.97029,-43.18585,Shared room,413,2,0,No_reviews,0.0,1,90,0,Unknown
+15457,42410302.0,Sofá na sala,333857358,Rafaele,Unknown,Rio Comprido,-22.92629,-43.20731,Shared room,55,1,0,No_reviews,0.0,5,365,0,Unknown
+15467,42657204.0,Quartos na taquara,82632814,Mauro,Unknown,Taquara,-22.9284,-43.38909,Shared room,50,1,0,No_reviews,0.0,1,86,0,Unknown
+15542,43177773.0,Selina Lapa Rio de Janeiro - Bed in Large Dorm,297450975,Selina,Unknown,Centro,-22.91333,-43.17925,Shared room,111,1,59,22/05/2022,2.71,8,250,51,Unknown
+15580,42525016.0,Quarto temporada na Taquara Jacarepaguá,338717164,Pamy,Unknown,Taquara,-22.91838,-43.36556,Shared room,170,1,0,No_reviews,0.0,1,360,0,Unknown
+15625,42790281.0,Hostel,340807276,Wagner,Unknown,Jacarepaguá,-22.9388,-43.38502,Shared room,85,7,0,No_reviews,0.0,1,364,0,Unknown
+15661,43452100.0,cosiness of adventure,226756938,Andre,Unknown,Itanhangá,-22.98849,-43.29768,Shared room,85,1,0,No_reviews,0.0,1,365,0,Unknown
+15780,44034082.0,Casa Miranda,352932979,Jacqueline,Unknown,Botafogo,-22.95887,-43.18153,Shared room,60,1,0,No_reviews,0.0,1,365,0,Unknown
+15837,44119856.0,Suite top 10,354435100,Genilza,Unknown,Camorim,-22.97516,-43.41495,Shared room,81,30,0,No_reviews,0.0,1,179,0,Unknown
+15845,44124293.0,Excelente Apto na Glória. Custo benefício,210838104,Luiz Felipe,Unknown,Glória,-22.91561,-43.17547,Shared room,150,30,0,No_reviews,0.0,1,89,0,Unknown
+15887,44389346.0,"Casa  Apartamento segundo andar.
+temporada.",14536991,Heloisa,Unknown,Recreio dos Bandeirantes,-23.02082,-43.52201,Shared room,800,1,1,30/07/2020,0.04,2,365,0,Unknown
+15892,44716230.0,Kitnet confortável,362070392,Heloa,Unknown,Jacarepaguá,-22.97199,-43.33182,Shared room,55,1,0,No_reviews,0.0,1,365,0,Unknown
+15906,44401511.0,Hostel Maresias do Leme - Quarto com 10 camas,358323282,Rafael,Unknown,Leme,-22.9604,-43.16893,Shared room,50,1,15,03/06/2022,1.79,7,182,15,Unknown
+15912,44225491.0,Quarto triplo sem banheiro 1 quadra praia Ipanema,137109572,Mango Tree Ipanema,Unknown,Ipanema,-22.98625,-43.20263,Shared room,305,1,0,No_reviews,0.0,10,246,0,Unknown
+15913,44226409.0,Quarto triplo com banheiro 1 quadra praia Ipanema,137109572,Mango Tree Ipanema,Unknown,Ipanema,-22.98641,-43.20167,Shared room,352,1,0,No_reviews,0.0,10,362,0,Unknown
+15923,44405233.0,Vaga feminina em república em frente a UERJ,241704678,Igor,Unknown,Vila Isabel,-22.91382,-43.23569,Shared room,50,1,0,No_reviews,0.0,2,365,0,Unknown
+15937,44447598.0,Hostel Maresias do Leme - Quarto com 8 camas,358323282,Rafael,Unknown,Leme,-22.95876,-43.16909,Shared room,51,1,2,11/05/2022,0.66,7,225,2,Unknown
+15938,44448139.0,Hostel Maresias do Leme - Quarto com 6 camas,358323282,Rafael,Unknown,Leme,-22.95907,-43.16977,Shared room,74,1,2,16/01/2022,0.31,7,225,2,Unknown
+15939,44448270.0,Hostel Maresias do Leme - Quarto com 6 camas,358323282,Rafael,Unknown,Leme,-22.95887,-43.17119,Shared room,62,1,1,04/04/2022,0.38,7,216,1,Unknown
+15940,44448404.0,Hostel Maresias do Leme - Quarto com 4 camas,358323282,Rafael,Unknown,Leme,-22.96102,-43.16944,Shared room,61,1,1,01/11/2021,0.13,7,222,1,Unknown
+15941,44448716.0,Hostel Maresias do Leme - Quarto duplo,358323282,Rafael,Unknown,Leme,-22.96102,-43.16962,Shared room,132,1,3,09/06/2022,0.17,7,211,2,Unknown
+15942,44448815.0,Hostel Maresias do Leme - Quarto duplo varanda/mar,358323282,Rafael,Unknown,Leme,-22.9608,-43.17052,Shared room,149,1,0,No_reviews,0.0,7,216,0,Unknown
+16084,44694409.0,Simples e amigável,361930995,Rogério,Unknown,Praça Seca,-22.90279,-43.34517,Shared room,53,1,1,11/12/2021,0.16,1,175,1,Unknown
+16197,45767954.0,Cantinho aconchegante Melhor custo/benefício,354485065,Beatriz,Unknown,Copacabana,-22.973,-43.19124,Shared room,90,1,11,24/04/2022,0.53,10,361,4,Unknown
+16306,45831128.0,Aconchego do Rio - Melhor Localização,354485065,Beatriz,Unknown,Copacabana,-22.97195,-43.18928,Shared room,50,1,4,17/04/2022,0.24,10,180,3,Unknown
+16327,45549494.0,3m Metrô/ 15m Centro (SDU) / 30m Copacabana.,363367758,Valéria,Unknown,Tijuca,-22.92591,-43.23133,Shared room,516,3,0,No_reviews,0.0,1,364,0,Unknown
+16379,45876095.0,Discovery Hostel,371915689,Discovery Hostel,Unknown,Glória,-22.92072,-43.1788,Shared room,57,1,9,29/05/2022,0.62,1,256,8,Unknown
+16711,46538150.0,Cantinho Aconchegante,354485065,Beatriz,Unknown,Copacabana,-22.9716,-43.18945,Shared room,65,1,6,15/11/2021,0.32,10,363,1,Unknown
+16860,46939242.0,Cama em Dormitório misto para 15,302960741,Solar,Unknown,Copacabana,-22.9792,-43.1911,Shared room,61,1,1,25/02/2022,0.26,7,180,1,Unknown
+16861,46939354.0,Cama em dormitório misto para 15 com varanda,302960741,Solar,Unknown,Copacabana,-22.9792,-43.1911,Shared room,61,1,0,No_reviews,0.0,7,0,0,Unknown
+16866,46810756.0,Toki House - Shared House in Santa Teresa,11994246,Saulo,Unknown,Santa Teresa,-22.92319,-43.18436,Shared room,300,7,0,No_reviews,0.0,1,358,0,Unknown
+16888,46945840.0,Hostel/ Hotel Melhor Ponto Central Do Rio Capital,379395058,Lucas,Unknown,Rio Comprido,-22.92524,-43.21034,Shared room,199,1,0,No_reviews,0.0,1,365,0,Unknown
+16907,46828512.0,"Quarto - 2 Quadras da Praia de Copacabana, Posto 2",173993507,Marcia,Unknown,Copacabana,-22.96301,-43.17938,Shared room,100,1,1,01/03/2022,0.27,1,358,1,Unknown
+17007,47008521.0,Cantinho em Copacabana City Maravilhosa,35330107,Evelyn,Unknown,Copacabana,-22.964022,-43.178268,Shared room,75,1,3,17/04/2022,0.17,2,365,2,Unknown
+17025,46880547.0,NAO ESTA MAIS DISPONÍVEL,100920784,Leandro,Unknown,Centro,-22.90975,-43.19437,Shared room,510,3,0,No_reviews,0.0,1,87,0,Unknown
+17034,46891921.0,Cama em quarto compartilhado misto para 10,302960741,Solar,Unknown,Copacabana,-22.9792,-43.1911,Shared room,66,1,3,08/04/2022,0.47,7,179,3,Unknown
+17035,46893407.0,Cama em dormitório misto para 8,302960741,Solar,Unknown,Copacabana,-22.9792,-43.1911,Shared room,71,1,0,No_reviews,0.0,7,181,0,Unknown
+17136,47219896.0,AUGUSTUS DE COPACABANA (Posto 6),266703679,Maximilian,Unknown,Copacabana,-22.98571,-43.19035,Shared room,692,3,32,30/10/2021,1.81,1,81,13,Unknown
+17405,47886352.0,Espaço limpo e aconchegante para descanso/home off,234131813,Susi,Unknown,Campo Grande,-22.8682,-43.55048,Shared room,124,1,0,No_reviews,0.0,1,87,0,Unknown
+17507,47920909.0,Cama Dorm Misto de 6 com Ar no Melhor de Ipanema,37776540,Mariana,Unknown,Ipanema,-22.98405,-43.20936,Shared room,76,1,17,02/05/2022,1.01,6,178,14,Unknown
+17508,47921032.0,Cama Dorm Feminino com Ar  no Melhor de Ipanema,37776540,Mariana,Unknown,Ipanema,-22.98282,-43.20968,Shared room,86,1,2,18/03/2022,0.12,6,175,1,Unknown
+17590,48027290.0,HANA HOSTEL ALBERGUES E E REPÚBLICA 1,323842917,HAna Hostel Albergues E,Unknown,Rocinha,-22.9912,-43.25195,Shared room,51,1,0,No_reviews,0.0,5,179,0,Unknown
+17632,47814931.0,Cama Dorm Misto de 9 com Ar no Melhor de Ipanema,37776540,Mariana,Unknown,Ipanema,-22.98424,-43.20792,Shared room,71,1,6,06/06/2022,0.47,6,178,5,Unknown
+17641,47817186.0,HANA HOSTEL ALBERGUES E REPUBLICA 2,323842917,HAna Hostel Albergues E,Unknown,Rocinha,-22.99194,-43.24964,Shared room,80,1,0,No_reviews,0.0,5,365,0,Unknown
+17647,47822335.0,Quarto compartilhado de luxo colado à praia,385451930,Claudia,Unknown,Copacabana,-22.96296,-43.17597,Shared room,250,3,0,No_reviews,0.0,1,365,0,Unknown
+17655,48128984.0,Aconchego de Copacabana,354485065,Beatriz,Unknown,Copacabana,-22.97367,-43.18975,Shared room,50,1,7,18/05/2022,0.43,10,365,6,Unknown
+17669,48282753.0,Cama em quarto compartilhado com vista pro mar,55289246,Larry,Unknown,Vidigal,-22.99498,-43.2372,Shared room,66,4,0,No_reviews,0.0,3,281,0,Unknown
+17806,48693338.0,Casinha Tropical - Cama em Quarto Compartilhado,41846354,Reynaldo,Unknown,Tijuca,-22.92464,-43.21961,Shared room,55,1,13,07/05/2022,0.85,7,125,12,Unknown
+17822,48406726.0,HANA HOSTEL ALBERGUES E REPÚBLICA 4,323842917,HAna Hostel Albergues E,Unknown,Rocinha,-22.99072,-43.25056,Shared room,56,1,0,No_reviews,0.0,5,365,0,Unknown
+17841,48230601.0,Quarto 1  em Casa de Época - Ipanema,136443767,Claudia Regina,Unknown,Ipanema,-22.9796,-43.20139,Shared room,120,3,7,02/05/2022,0.83,4,273,7,Unknown
+18005,49075073.0,"Conjugado maravilhoso, bem arejado e confortável!",295120500,Marcos Igor,Unknown,Santa Teresa,-22.91514,-43.18319,Shared room,100,1,0,No_reviews,0.0,1,365,0,Unknown
+18032,48870845.0,Quarto no Leblon ao lado da Praia e comércios,348941041,Miguel,Unknown,Leblon,-22.98824,-43.23281,Shared room,100,1,1,10/09/2021,0.11,1,365,1,Unknown
+18105,49531912.0,Desfrute da Cidade Maravilhosa !!!!,3021886,Vane,Unknown,Santa Teresa,-22.91614,-43.18752,Shared room,57,1,8,05/06/2022,0.78,1,359,8,Unknown
+18302,50007917.0,VER O OUTRO ANÚNCIO,65062325,Celso,Unknown,Jacarepaguá,-22.97282,-43.3581,Shared room,361,3,0,No_reviews,0.0,2,89,0,Unknown
+18311,50013408.0,"Pachamama, a presença da natureza, conheça Paqueta",407155324,Patricia,Unknown,Paquetá,-22.75358,-43.10527,Shared room,450,1,1,18/07/2021,0.09,1,365,1,Unknown
+18534,51086309.0,sitio no Rio de Janeiro,413190335,Sitio,Unknown,Santa Cruz,-22.94209,-43.64782,Shared room,5000,1,0,No_reviews,0.0,1,365,0,Unknown
+18799,51320369.0,Compartilhado misto - 4 camas,413919968,More,Unknown,Itanhangá,-22.98855,-43.30146,Shared room,1212,1,0,No_reviews,0.0,6,0,0,Unknown
+18990,52109218.0,Compartilhado Misto - 6 camas,413919968,More,Unknown,Itanhangá,-22.98726,-43.30165,Shared room,85,1,0,No_reviews,0.0,6,182,0,Unknown
+18991,52109468.0,Compartilhado Misto - 8 camas,413919968,More,Unknown,Itanhangá,-22.98916,-43.30069,Shared room,82,1,0,No_reviews,0.0,6,184,0,Unknown
+18992,52109565.0,Compartilhado Feminino - 6 camas,413919968,More,Unknown,Itanhangá,-22.98881,-43.29934,Shared room,85,1,0,No_reviews,0.0,6,184,0,Unknown
+19018,51747591.0,"Alugo vaga em quarto compartilhado, para rapazes em apartamento familiar em Ipanema.  
+Condomínio ao lado do Metrô General Osório, 5 min Caminhando até a praia de Ipanema e 10 min da Lagoa.
+Necessário referências familiar. 
+Patricia 21 993952220",336517609,Patricia,Unknown,Ipanema,-22.98424,-43.19854,Shared room,150,1,0,No_reviews,0.0,1,365,0,Unknown
+19073,51956549.0,Quarto c/ar-cond. e wifi à 5 minutos a pé da praia,60258511,Filipe,Unknown,Santa Cruz,-22.91612,-43.66028,Shared room,85,2,0,No_reviews,0.0,1,73,0,Unknown
+19270,52406084.0,Quarto com vista para o mar,316589516,Anna Luiza,Unknown,Vidigal,-22.99669,-43.23983,Shared room,99,1,6,24/04/2022,0.71,4,333,6,Unknown
+19271,52406238.0,Quarto com vista para o mar,316589516,Anna Luiza,Unknown,Vidigal,-22.99776,-43.24046,Shared room,99,1,2,01/01/2022,0.27,4,354,2,Unknown
+19399,52600813.0,"#2Bienal,Junesse Arena, Rock in rio Praias",162366245,Karol,Unknown,Jacarepaguá,-22.97405,-43.41257,Shared room,186,1,0,No_reviews,0.0,4,361,0,Unknown
+19401,52600972.0,"#4 Bienal, Junesse Arena, Rock in rio Praias",162366245,Karol,Unknown,Jacarepaguá,-22.97432,-43.41252,Shared room,200,1,0,No_reviews,0.0,4,365,0,Unknown
+19433,52589923.0,"SOFÁ CAMA, SALA DE VISITA, FLAMENGO, RJ.",316921706,Paulo,Unknown,Flamengo,-22.92813,-43.17516,Shared room,73,1,0,No_reviews,0.0,7,78,0,Unknown
+19451,52714478.0,"Microcasa em Bento Ribeiro (2 noites, no máximo).",426738346,Rodrigo,Unknown,Bento Ribeiro,-22.86477,-43.3625,Shared room,60,1,0,No_reviews,0.0,1,365,0,Unknown
+19668,52881810.0,Apartamento mobiliado para o Carnaval no Flamengo,428140227,Christiane,Unknown,Laranjeiras,-22.9354,-43.17914,Shared room,300,5,0,No_reviews,0.0,1,0,0,Unknown
+19728,52910622.0,Suite completa com geladeira -9,5742087,Bet,Unknown,Tijuca,-22.92773,-43.22573,Shared room,172,2,1,28/01/2022,0.21,4,365,1,Unknown
+19771,52928443.0,"COPA POSTO 5
+PERTO DE IPANEMA & LAGOA.
+RUA NOBRE!",15310618,Fabio,Unknown,Copacabana,-22.9783,-43.189484,Shared room,179,4,3,07/03/2022,0.53,1,365,3,Unknown
+19876,53032279.0,Cama king na sala de TV em cobertura de ipanema,10962864,Alexandre,Unknown,Ipanema,-22.98609,-43.20426,Shared room,344,2,1,08/11/2021,0.13,6,84,1,Unknown
+19921,53191112.0,Casa dos Artistas,264700605,Ton,Unknown,Centro,-22.91267,-43.18483,Shared room,147,2,2,12/06/2022,0.92,1,360,2,Unknown
+19935,53200915.0,Quartos para hospedagem,59441980,Marisa Oliveira /,Unknown,Vargem Grande,-22.97589,-43.48899,Shared room,95,8,0,No_reviews,0.0,2,363,0,Unknown
+20521,53680716.0,Casa com terraço e churrasqueira na Lapa,115075111,Ellysabeth,Unknown,Santa Teresa,-22.91441,-43.18086,Shared room,64,1,5,02/06/2022,0.88,6,352,5,Unknown
+20636,53645955.0,"Vagas para o Ano Novo, disponíveis, COPACABANA!",434423138,Tatiana,Unknown,Copacabana,-22.96586,-43.18865,Shared room,500,3,0,No_reviews,0.0,1,365,0,Unknown
+20749,53667192.0,Casa Agradável em Inhoaíba,425645010,Geniel,Unknown,Inhoaíba,-22.91051,-43.58987,Shared room,80,1,1,12/12/2021,0.16,2,363,1,Unknown
+20991,53832553.0,Venha conhecer esse lugar tão ESPECIAL no RJ,213230578,Alexandre,Unknown,Engenho Novo,-22.90466,-43.26742,Shared room,64,1,0,No_reviews,0.0,8,365,0,Unknown
+21001,53872906.0,Pousada Maanaim venha conhecer,213230578,Alexandre,Unknown,Engenho Novo,-22.9065,-43.26841,Shared room,51,1,0,No_reviews,0.0,8,365,0,Unknown
+21120,53907310.0,Apto aconchegante a 3 min da praia ⛱️🎉,128036255,David,Unknown,Copacabana,-22.96324,-43.17433,Shared room,200,1,1,01/01/2022,0.17,1,180,1,Unknown
+21139,53798110.0,"pousada maanaim
+bem localizada,6 anos c/vc SEMPRE",213230578,Alexandre,Unknown,Engenho Novo,-22.90609,-43.26969,Shared room,51,1,2,10/04/2022,0.35,8,363,2,Unknown
+21187,53962292.0,Casarão de 3 andares e Varanda Terraço,115075111,Ellysabeth,Unknown,Santa Teresa,-22.91557,-43.18288,Shared room,62,1,9,23/04/2022,1.55,6,358,9,Unknown
+21199,53920692.0,Hospedagem de passagem,378103522,Ana Carolina,Unknown,Bonsucesso,-22.86565,-43.24799,Shared room,60,1,1,13/03/2022,0.3,1,179,1,Unknown
+21289,53981291.0,"apartamento quarto  compartilhando, com serv.",176927956,Sidinei Soares,Unknown,Coelho Neto,-22.82773,-43.3531,Shared room,70,1,0,No_reviews,0.0,1,364,0,Unknown
+21357,53940794.0,Quarto agradável em Copacabana,37427403,Arthur,Unknown,Copacabana,-22.98211,-43.19482,Shared room,100,3,1,03/01/2022,0.18,3,365,1,Unknown
+21415,54081803.0,Quarto arejado em Copacabana,37427403,Arthur,Unknown,Copacabana,-22.98081,-43.19478,Shared room,100,1,0,No_reviews,0.0,3,365,0,Unknown
+21420,54082751.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Santa Teresa,-22.94545,-43.20522,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21421,54082799.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94455,-43.20517,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21422,54082838.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94378,-43.20546,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21424,54082911.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94521,-43.20679,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21425,54082938.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94413,-43.20678,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21426,54082988.0,Repouso do corcovado Hostel,155118499,Phellipe,Unknown,Cosme Velho,-22.94403,-43.20488,Shared room,90,1,0,No_reviews,0.0,9,365,0,Unknown
+21487,54100742.0,Copacabana Qd praia 2quartos,127380318,Ines,Unknown,Copacabana,-22.97932,-43.18918,Shared room,377,5,0,No_reviews,0.0,5,365,0,Unknown
+21583,54162537.0,Otimo apto pe na areia Copacabana P2,419118025,Joseph,Unknown,Copacabana,-22.96412,-43.17611,Shared room,120,2,2,26/04/2022,0.54,1,360,2,Unknown
+21717,54187342.0,COPA BR QUARTO INDIVIDUAL - CAMA NA SALA,313511420,Jorgivan,Unknown,Copacabana,-22.97347,-43.19061,Shared room,65,1,0,No_reviews,0.0,2,0,0,Unknown
+21719,54187735.0,Quarto em Copacabana a 50m da Praia para MOÇAS,413945214,Mariana,Unknown,Copacabana,-22.98275,-43.19245,Shared room,50,3,0,No_reviews,0.0,2,267,0,Unknown
+21775,54357792.0,Cama em Quarto Compartilhado - Lumiar Hostel,440770399,Lumiar,Unknown,Tijuca,-22.93882,-43.24906,Shared room,55,1,1,09/05/2022,0.68,2,64,1,Unknown
+21825,54292797.0,"Apartamento encantador no Centro.
+Yoga e Vegan",440340657,Isabel,Unknown,Centro,-22.91349,-43.18853,Shared room,108,1,0,No_reviews,0.0,1,365,0,Unknown
+21840,54379157.0,"Quarto c/ varanda, 300m da praia e do metrô",124111455,João Pedro,Unknown,São Conrado,-22.995872,-43.255032,Shared room,145,2,1,02/03/2022,0.27,3,363,1,Unknown
+21895,5.40057e+17,Albergue cultural em Vila Isabel,370193278,Fabio,Unknown,Vila Isabel,-22.91536,-43.24013,Shared room,60,1,3,27/05/2022,0.79,1,89,3,Unknown
+22008,5.47734e+17,Local familiar com vista para o mar,442073673,Natalia,Unknown,Vidigal,-22.98922,-43.23403,Shared room,110,1,1,25/04/2022,0.52,1,365,1,Unknown
+22107,5.47239e+17,Babilonia Rio Hostel - Dormitório Misto,441941839,Rosana,Unknown,Leme,-22.96015,-43.170364,Shared room,80,1,0,No_reviews,0.0,5,72,0,Unknown
+22108,5.47251e+17,"Babilonia Rio Hostel - 
+Dormitório Misto",441941839,Rosana,Unknown,Leme,-22.96015,-43.170364,Shared room,80,1,1,22/02/2022,0.25,5,72,1,Unknown
+22293,5.58734e+17,Quarto Compartilhado em Copacabana,207879999,Gilberto,Unknown,Copacabana,-22.966368,-43.189896,Shared room,74,1,17,25/05/2022,3.95,1,342,17,Unknown
+22448,5.67362e+17,Vaga individual (colchão no chão) para Rock in Rio,277851111,Jorge LUIZ,Unknown,Jacarepaguá,-22.96713,-43.41513,Shared room,110,5,0,No_reviews,0.0,5,0,0,Unknown
+22450,5.67363e+17,# vaga em quarto compartilhado próximo Rock in Rio,277851111,Jorge LUIZ,Unknown,Jacarepaguá,-22.96701,-43.41314,Shared room,110,5,0,No_reviews,0.0,5,0,0,Unknown
+22456,5.67438e+17,Quarto para 1 pessoa na Penha.,76915662,Soraya,Unknown,Penha,-22.83561,-43.28093,Shared room,70,1,0,No_reviews,0.0,2,363,0,Unknown
+22470,5.6283e+17,"Quarto Individual Solteiro, Casal e Compartilhado",115075111,Ellysabeth,Unknown,Santa Teresa,-22.91427,-43.18115,Shared room,50,1,2,23/04/2022,0.53,6,362,2,Unknown
+22834,5.78838e+17,"11 Beds, Room for Family/Friends",3308731,Luiz Gustavo,Unknown,Ipanema,-22.98355,-43.1955,Shared room,85,1,1,29/03/2022,0.35,8,357,1,Unknown
+22958,5.87679e+17,Quarto compartilhado c varanda 300 metros da praia,124111455,João Pedro,Unknown,São Conrado,-22.99518,-43.25419,Shared room,165,2,1,25/04/2022,0.52,3,363,1,Unknown
+22989,5.79218e+17,Shared Loft in Copacabana 🏖,2245403,Julio,Unknown,Copacabana,-22.97569,-43.18749,Shared room,125,1,6,17/06/2022,1.78,2,206,6,Unknown
+23045,5.8556e+17,"Welcome @ Senador Vergueiro, Flamengo B&B!",450203002,Ma Daffodil,Unknown,Flamengo,-22.93843,-43.17589,Shared room,69,1,1,04/04/2022,0.38,1,363,1,Unknown
+23057,5.86086e+17,"Com churrasqueira, quintal e bem arejada",450205911,Carla,Unknown,Sampaio,-22.90039,-43.25926,Shared room,49,1,0,No_reviews,0.0,2,364,0,Unknown
+23080,5.80994e+17,Vaga para meninas pertinho da praia!,217968782,Fernanda,Unknown,Copacabana,-22.97974,-43.19007,Shared room,80,1,4,30/04/2022,1.82,1,342,4,Unknown
+23169,5.82539e+17,Vagas Hostel Bella Ciao para refugiados da Ucrania,13954140,Saulo,Unknown,Andaraí,-22.9231,-43.25394,Shared room,196,1,0,No_reviews,0.0,2,365,0,Unknown
+23194,5.90662e+17,Sofá-cama na sala em apto Copacabana,191783780,Eberson,Unknown,Copacabana,-22.966396,-43.186962,Shared room,75,1,1,23/05/2022,1.0,1,0,1,Unknown
+23415,6.00654e+17,"Loft encantador em Copacabana. 🦶🏖SofáCAMA c/AR,TV.",374609098,Gisley Brito,Unknown,Copacabana,-22.97271,-43.18761,Shared room,220,1,0,No_reviews,0.0,1,365,0,Unknown
+23432,6.00897e+17,Quarto  compartilhado,313146690,Pablo,Unknown,Copacabana,-22.96769,-43.1809,Shared room,85,1,1,25/04/2022,0.52,2,365,1,Unknown
+23440,6.01093e+17,Apartamento Copa1 ( quartos compartilhados menina,1839655,Carla Cristina,Unknown,Copacabana,-22.97728,-43.19088,Shared room,60,1,4,22/05/2022,1.9,2,80,4,Unknown
+23447,5.98254e+17,Recreio dos bandeirantes  alugo 1 quarto,452820100,Maria Roberta,Unknown,Recreio dos Bandeirantes,-23.028299,-43.476208,Shared room,200,30,0,No_reviews,0.0,1,352,0,Unknown
+23463,5.94437e+17,Venha viver sua melhor experiência,450206297,Maria Eduarda,Unknown,Sampaio,-22.90195,-43.25983,Shared room,59,1,0,No_reviews,0.0,1,364,0,Unknown
+23505,5.98592e+17,Casa na favela,171514905,Daiane,Unknown,Lagoa,-22.96436,-43.19878,Shared room,70,1,0,No_reviews,0.0,3,365,0,Unknown
+23617,6.03421e+17,Cama de solteiro com banheiro em Ipanema,443805395,Antonio Dimas,Unknown,Ipanema,-22.98149,-43.2018,Shared room,150,1,0,No_reviews,0.0,1,365,0,Unknown
+23622,6.06489e+17,Quarto Aconchegante compartilhado Itanhangá,454107948,Claudia,Unknown,Itanhangá,-22.98772,-43.30729,Shared room,120,1,0,No_reviews,0.0,2,362,0,Unknown
+23704,6.07212e+17,Apartamento Copa 2 ( quarto F compartilhado),1839655,Carla Cristina,Unknown,Copacabana,-22.97704,-43.18948,Shared room,200,3,0,No_reviews,0.0,2,57,0,Unknown
+23767,6.04927e+17,Quarto compartilhado a 3 min da praia. posto 3.,313146690,Pablo,Unknown,Copacabana,-22.96995,-43.18668,Shared room,49,1,1,23/04/2022,0.5,2,347,1,Unknown
+23817,6.10839e+17,"ROOM 6 BEDS for Grups - Parque Olímpico, RioCentro",3308731,Luiz Gustavo,Unknown,Jacarepaguá,-22.96535,-43.39554,Shared room,100,1,0,No_reviews,0.0,8,349,0,Unknown
+23872,6.19642e+17,Quarto compartilhado 2 para 1 pessoa,10553239,Cris,Unknown,Santa Teresa,-22.91296,-43.19417,Shared room,60,1,0,No_reviews,0.0,3,92,0,Unknown
+23954,6.13727e+17,Comfy Double  Espaço in Estácio Center of it all!,455847647,Solange,Unknown,Estácio,-22.91591,-43.20654,Shared room,69,1,1,23/05/2022,1.0,4,362,1,Unknown
+23973,6.20397e+17,"J
+
+
+S",366714300,Emerson,Unknown,Copacabana,-22.967346,-43.181377,Shared room,280,1,0,No_reviews,0.0,1,365,0,Unknown
+24071,6.18777e+17,Shared room + Breakfast,457280105,Santo Amaro,Unknown,Santa Teresa,-22.923765,-43.181759,Shared room,85,1,0,No_reviews,0.0,1,365,0,Unknown
+24181,6.26047e+17,CASA DA PEDRA,342892821,Carol,Unknown,Joá,-23.00578,-43.28174,Shared room,90,1,0,No_reviews,0.0,1,163,0,Unknown
+24190,6.26488e+17,Quarto com dormitórios no Vidigal,155969971,Ruanita Cristina,Unknown,Vidigal,-22.99504,-43.23701,Shared room,55,1,0,No_reviews,0.0,1,365,0,Unknown
+24281,6.30401e+17,Quarto compartilhado 4 camas,455847647,Solange,Unknown,Estácio,-22.91811,-43.20691,Shared room,69,1,0,No_reviews,0.0,4,365,0,Unknown
+24361,6.3476e+17,Hostel do Canal Major,460769059,Jefferson,Unknown,Anil,-22.961683,-43.343987,Shared room,260,4,0,No_reviews,0.0,1,30,0,Unknown
+24406,6.35676e+17,Um sofá para relaxar,20029096,Robson,Unknown,Rocinha,-22.986462,-43.247993,Shared room,56,1,0,No_reviews,0.0,1,364,0,Unknown
+24520,6.38546e+17,Quarto compartilhado Rock in rio,50893268,Adriana,Unknown,Jacarepaguá,-22.96578,-43.40132,Shared room,96,1,0,No_reviews,0.0,11,358,0,Unknown
+24543,6.46934e+17,Quarto compartilhado BARRA DA TIJUCA,164604250,Thiago,Unknown,Barra da Tijuca,-22.97648,-43.38966,Shared room,150,1,0,No_reviews,0.0,2,339,0,Unknown
+24616,6.40401e+17,CASA    DA ChICA   VISTA PARA MARACANÃ,424277094,Francisca,Unknown,Tijuca,-22.9175,-43.22931,Shared room,48,1,1,14/06/2022,1.0,1,356,1,Unknown
+24638,6.4805e+17,Quarto compartilhado para 4 pessoas.,460104647,Stone,Unknown,Recreio dos Bandeirantes,-23.0285867,-43.4988167,Shared room,100,1,0,No_reviews,0.0,3,363,0,Unknown
+24688,6.4128e+17,O Grumary Hostel fica no coração do bairro Recreio,462345092,Daniel Sergio,Unknown,Recreio dos Bandeirantes,-23.0253397,-43.5229922,Shared room,60,1,0,No_reviews,0.0,4,353,0,Unknown
